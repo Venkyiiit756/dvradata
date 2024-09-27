@@ -1,0 +1,7363 @@
+https://dpaste.org/CcPRU 
+https://dpaste.org/CcPRU
+About History New snippet
+HTML Never expires
+Delete Now
+Raw
+Slim
+[
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 700,
+    "booked_gross": 185330,
+    "showTime": "04:30 AM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 441,
+    "booked_gross": 109360,
+    "showTime": "08:00 AM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 404,
+    "booked_gross": 98880,
+    "showTime": "11:30 AM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 224,
+    "booked_gross": 50855,
+    "showTime": "03:00 PM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 356,
+    "booked_gross": 85300,
+    "showTime": "06:30 PM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 365,
+    "booked_gross": 89985,
+    "showTime": "10:00 PM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 639,
+    "booked_gross": 179710,
+    "showTime": "04:15 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 409,
+    "booked_gross": 110905,
+    "showTime": "04:30 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 352,
+    "booked_gross": 100120,
+    "showTime": "04:45 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 571,
+    "booked_gross": 163730,
+    "showTime": "07:30 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 281,
+    "booked_gross": 81235,
+    "showTime": "07:45 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 250,
+    "booked_gross": 73570,
+    "showTime": "08:00 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 558,
+    "booked_gross": 160675,
+    "showTime": "11:00 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 270,
+    "booked_gross": 76560,
+    "showTime": "11:15 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 231,
+    "booked_gross": 67785,
+    "showTime": "11:30 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 477,
+    "booked_gross": 138640,
+    "showTime": "02:30 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 197,
+    "booked_gross": 55265,
+    "showTime": "02:45 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 109,
+    "booked_gross": 32155,
+    "showTime": "03:00 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 504,
+    "booked_gross": 146785,
+    "showTime": "06:00 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 237,
+    "booked_gross": 66885,
+    "showTime": "06:15 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 161,
+    "booked_gross": 47495,
+    "showTime": "06:30 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 492,
+    "booked_gross": 142705,
+    "showTime": "09:30 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 229,
+    "booked_gross": 64585,
+    "showTime": "09:45 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 163,
+    "booked_gross": 48085,
+    "showTime": "10:00 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 464,
+    "booked_gross": 136880,
+    "showTime": "04:15 AM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 335,
+    "booked_gross": 98825,
+    "showTime": "07:30 AM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 289,
+    "booked_gross": 85255,
+    "showTime": "11:00 AM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 205,
+    "booked_gross": 60475,
+    "showTime": "02:15 PM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 233,
+    "booked_gross": 68735,
+    "showTime": "06:00 PM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 286,
+    "booked_gross": 84370,
+    "showTime": "09:15 PM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+
+{
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 152,
+    "booked_gross": 63520,
+    "showTime": "08:10 AM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 168,
+    "booked_gross": 70080,
+    "showTime": "11:40 AM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 95,
+    "booked_gross": 40150,
+    "showTime": "03:10 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 148,
+    "booked_gross": 61880,
+    "showTime": "06:40 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 290,
+    "total_gross": 118900,
+    "booked_tickets": 4,
+    "booked_gross": 1640,
+    "showTime": "07:20 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 89,
+    "booked_gross": 37690,
+    "showTime": "10:10 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 270,
+    "booked_gross": 112454,
+    "showTime": "07:40 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 55,
+    "booked_gross": 23482,
+    "showTime": "08:40 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 196,
+    "booked_gross": 81892,
+    "showTime": "11:15 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 86,
+    "booked_gross": 36285,
+    "showTime": "12:15 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 136,
+    "booked_gross": 57112,
+    "showTime": "02:50 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 52,
+    "booked_gross": 22243,
+    "showTime": "03:50 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 198,
+    "booked_gross": 82718,
+    "showTime": "06:25 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 109,
+    "booked_gross": 45784,
+    "showTime": "07:25 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 173,
+    "booked_gross": 72393,
+    "showTime": "10:00 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 69,
+    "booked_gross": 29264,
+    "showTime": "11:00 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+
+{
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 152,
+    "booked_gross": 63520,
+    "showTime": "08:10 AM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 168,
+    "booked_gross": 70080,
+    "showTime": "11:40 AM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 95,
+    "booked_gross": 40150,
+    "showTime": "03:10 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 148,
+    "booked_gross": 61880,
+    "showTime": "06:40 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 290,
+    "total_gross": 118900,
+    "booked_tickets": 4,
+    "booked_gross": 1640,
+    "showTime": "07:20 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 89,
+    "booked_gross": 37690,
+    "showTime": "10:10 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 270,
+    "booked_gross": 112454,
+    "showTime": "07:40 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 55,
+    "booked_gross": 23482,
+    "showTime": "08:40 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 196,
+    "booked_gross": 81892,
+    "showTime": "11:15 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 83,
+    "booked_gross": 35046,
+    "showTime": "12:15 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 136,
+    "booked_gross": 57112,
+    "showTime": "02:50 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 52,
+    "booked_gross": 22243,
+    "showTime": "03:50 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 198,
+    "booked_gross": 82718,
+    "showTime": "06:25 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 109,
+    "booked_gross": 45784,
+    "showTime": "07:25 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 173,
+    "booked_gross": 72393,
+    "showTime": "10:00 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 67,
+    "booked_gross": 28438,
+    "showTime": "11:00 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+{
+    "total_tickets": 612,
+    "total_gross": 139200,
+    "booked_tickets": 326,
+    "booked_gross": 77200,
+    "showTime": "11:00 AM",
+    "theatre code": "SHMT",
+    "theatre name": "Shanth Mahal Talkies: Tandur"
+  },
+  {
+    "total_tickets": 612,
+    "total_gross": 139200,
+    "booked_tickets": 132,
+    "booked_gross": 31000,
+    "showTime": "02:15 PM",
+    "theatre code": "SHMT",
+    "theatre name": "Shanth Mahal Talkies: Tandur"
+  },
+  {
+    "total_tickets": 612,
+    "total_gross": 139200,
+    "booked_tickets": 150,
+    "booked_gross": 36800,
+    "showTime": "05:45 PM",
+    "theatre code": "SHMT",
+    "theatre name": "Shanth Mahal Talkies: Tandur"
+  },
+  {
+    "total_tickets": 612,
+    "total_gross": 139200,
+    "booked_tickets": 98,
+    "booked_gross": 24200,
+    "showTime": "09:00 PM",
+    "theatre code": "SHMT",
+    "theatre name": "Shanth Mahal Talkies: Tandur"
+  },
+{
+    "total_tickets": 570,
+    "total_gross": 129550,
+    "booked_tickets": 309,
+    "booked_gross": 74750,
+    "showTime": "11:00 AM",
+    "theatre code": "ASSL",
+    "theatre name": "Asian Sailaja: Vikarabad"
+  },
+  {
+    "total_tickets": 570,
+    "total_gross": 129550,
+    "booked_tickets": 207,
+    "booked_gross": 49950,
+    "showTime": "02:30 PM",
+    "theatre code": "ASSL",
+    "theatre name": "Asian Sailaja: Vikarabad"
+  },
+  {
+    "total_tickets": 570,
+    "total_gross": 129550,
+    "booked_tickets": 212,
+    "booked_gross": 51700,
+    "showTime": "06:00 PM",
+    "theatre code": "ASSL",
+    "theatre name": "Asian Sailaja: Vikarabad"
+  },
+  {
+    "total_tickets": 570,
+    "total_gross": 129550,
+    "booked_tickets": 264,
+    "booked_gross": 65400,
+    "showTime": "09:30 PM",
+    "theatre code": "ASSL",
+    "theatre name": "Asian Sailaja: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 485,
+    "booked_gross": 104250,
+    "showTime": "04:00 AM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 615,
+    "booked_gross": 134150,
+    "showTime": "07:30 AM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 491,
+    "booked_gross": 104950,
+    "showTime": "11:00 AM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 403,
+    "booked_gross": 85250,
+    "showTime": "02:30 PM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 448,
+    "booked_gross": 95800,
+    "showTime": "06:00 PM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 470,
+    "booked_gross": 102300,
+    "showTime": "09:30 PM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+ {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 405,
+    "booked_gross": 101250,
+    "showTime": "06:00 AM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 285,
+    "booked_gross": 71250,
+    "showTime": "11:00 AM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 195,
+    "booked_gross": 48750,
+    "showTime": "02:00 PM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 197,
+    "booked_gross": 49250,
+    "showTime": "06:00 PM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 208,
+    "booked_gross": 52000,
+    "showTime": "09:00 PM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+ {
+    "total_tickets": 515,
+    "total_gross": 124350,
+    "booked_tickets": 263,
+    "booked_gross": 65750,
+    "showTime": "11:00 AM",
+    "theatre code": "GTME",
+    "theatre name": "Asian Sai Datta Picture Palace: Medak"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 124350,
+    "booked_tickets": 108,
+    "booked_gross": 27000,
+    "showTime": "02:30 PM",
+    "theatre code": "GTME",
+    "theatre name": "Asian Sai Datta Picture Palace: Medak"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 124350,
+    "booked_tickets": 153,
+    "booked_gross": 38250,
+    "showTime": "06:00 PM",
+    "theatre code": "GTME",
+    "theatre name": "Asian Sai Datta Picture Palace: Medak"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 124350,
+    "booked_tickets": 168,
+    "booked_gross": 42000,
+    "showTime": "09:30 PM",
+    "theatre code": "GTME",
+    "theatre name": "Asian Sai Datta Picture Palace: Medak"
+  },
+  {
+    "total_tickets": 673,
+    "total_gross": 159550,
+    "booked_tickets": 334,
+    "booked_gross": 83500,
+    "showTime": "11:00 AM",
+    "theatre code": "CMMK",
+    "theatre name": "Cinemax Theatre: Medak"
+  },
+  {
+    "total_tickets": 673,
+    "total_gross": 159550,
+    "booked_tickets": 132,
+    "booked_gross": 33000,
+    "showTime": "02:00 PM",
+    "theatre code": "CMMK",
+    "theatre name": "Cinemax Theatre: Medak"
+  },
+  {
+    "total_tickets": 673,
+    "total_gross": 159550,
+    "booked_tickets": 184,
+    "booked_gross": 46000,
+    "showTime": "06:00 PM",
+    "theatre code": "CMMK",
+    "theatre name": "Cinemax Theatre: Medak"
+  },
+  {
+    "total_tickets": 673,
+    "total_gross": 159550,
+    "booked_tickets": 196,
+    "booked_gross": 49000,
+    "showTime": "09:15 PM",
+    "theatre code": "CMMK",
+    "theatre name": "Cinemax Theatre: Medak"
+  },
+ {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 700,
+    "booked_gross": 192305,
+    "showTime": "04:00 AM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 668,
+    "booked_gross": 185905,
+    "showTime": "07:30 AM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 555,
+    "booked_gross": 163305,
+    "showTime": "11:00 AM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 555,
+    "booked_gross": 163305,
+    "showTime": "02:30 PM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 555,
+    "booked_gross": 163305,
+    "showTime": "06:00 PM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 557,
+    "booked_gross": 163705,
+    "showTime": "09:30 PM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+{
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 472,
+    "booked_gross": 105300,
+    "showTime": "07:30 AM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 453,
+    "booked_gross": 103150,
+    "showTime": "11:00 AM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 311,
+    "booked_gross": 74850,
+    "showTime": "02:30 PM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 399,
+    "booked_gross": 93250,
+    "showTime": "06:00 PM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 357,
+    "booked_gross": 84650,
+    "showTime": "09:30 PM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 748,
+    "total_gross": 178450,
+    "booked_tickets": 228,
+    "booked_gross": 55750,
+    "showTime": "11:00 AM",
+    "theatre code": "AMZB",
+    "theatre name": "Asian Sri Mohan: Zaheerabad"
+  },
+  {
+    "total_tickets": 748,
+    "total_gross": 178450,
+    "booked_tickets": 132,
+    "booked_gross": 31750,
+    "showTime": "02:30 PM",
+    "theatre code": "AMZB",
+    "theatre name": "Asian Sri Mohan: Zaheerabad"
+  },
+  {
+    "total_tickets": 748,
+    "total_gross": 178450,
+    "booked_tickets": 187,
+    "booked_gross": 45500,
+    "showTime": "06:00 PM",
+    "theatre code": "AMZB",
+    "theatre name": "Asian Sri Mohan: Zaheerabad"
+  },
+  {
+    "total_tickets": 748,
+    "total_gross": 178450,
+    "booked_tickets": 177,
+    "booked_gross": 43000,
+    "showTime": "09:30 PM",
+    "theatre code": "AMZB",
+    "theatre name": "Asian Sri Mohan: Zaheerabad"
+  },
+{
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 607,
+    "booked_gross": 137950,
+    "showTime": "04:00 AM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 515,
+    "booked_gross": 113850,
+    "showTime": "07:30 AM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 520,
+    "booked_gross": 118250,
+    "showTime": "11:00 AM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 351,
+    "booked_gross": 78600,
+    "showTime": "02:30 PM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 378,
+    "booked_gross": 86700,
+    "showTime": "06:00 PM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 417,
+    "booked_gross": 94550,
+    "showTime": "09:30 PM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 703,
+    "total_gross": 150400,
+    "booked_tickets": 475,
+    "booked_gross": 103150,
+    "showTime": "11:00 AM",
+    "theatre code": "ASVS",
+    "theatre name": "Asian Venkateshwara: Siddipet"
+  },
+  {
+    "total_tickets": 703,
+    "total_gross": 150400,
+    "booked_tickets": 322,
+    "booked_gross": 69900,
+    "showTime": "02:30 PM",
+    "theatre code": "ASVS",
+    "theatre name": "Asian Venkateshwara: Siddipet"
+  },
+  {
+    "total_tickets": 703,
+    "total_gross": 150400,
+    "booked_tickets": 353,
+    "booked_gross": 79750,
+    "showTime": "06:00 PM",
+    "theatre code": "ASVS",
+    "theatre name": "Asian Venkateshwara: Siddipet"
+  },
+  {
+    "total_tickets": 703,
+    "total_gross": 150400,
+    "booked_tickets": 335,
+    "booked_gross": 78750,
+    "showTime": "09:30 PM",
+    "theatre code": "ASVS",
+    "theatre name": "Asian Venkateshwara: Siddipet"
+  },
+{
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 335,
+    "booked_gross": 79350,
+    "showTime": "07:30 AM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+  {
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 276,
+    "booked_gross": 64800,
+    "showTime": "11:00 AM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+  {
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 182,
+    "booked_gross": 43000,
+    "showTime": "02:30 PM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+  {
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 225,
+    "booked_gross": 53650,
+    "showTime": "06:00 PM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+  {
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 217,
+    "booked_gross": 51750,
+    "showTime": "09:30 PM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+{
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 47,
+    "booked_gross": 9400,
+    "showTime": "07:45 AM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+  {
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 227,
+    "booked_gross": 45400,
+    "showTime": "11:00 AM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+  {
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 194,
+    "booked_gross": 38800,
+    "showTime": "02:30 PM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+  {
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 199,
+    "booked_gross": 39800,
+    "showTime": "06:00 PM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+  {
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 200,
+    "booked_gross": 40000,
+    "showTime": "09:30 PM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+{
+    "total_tickets": 324,
+    "total_gross": 64800,
+    "booked_tickets": 245,
+    "booked_gross": 49000,
+    "showTime": "11:00 AM",
+    "theatre code": "MAGH",
+    "theatre name": "Mahalaxmi Cinemas: Station Ghanpur"
+  },
+  {
+    "total_tickets": 324,
+    "total_gross": 64800,
+    "booked_tickets": 231,
+    "booked_gross": 46200,
+    "showTime": "02:00 PM",
+    "theatre code": "MAGH",
+    "theatre name": "Mahalaxmi Cinemas: Station Ghanpur"
+  },
+  {
+    "total_tickets": 324,
+    "total_gross": 64800,
+    "booked_tickets": 232,
+    "booked_gross": 46400,
+    "showTime": "06:00 PM",
+    "theatre code": "MAGH",
+    "theatre name": "Mahalaxmi Cinemas: Station Ghanpur"
+  },
+  {
+    "total_tickets": 324,
+    "total_gross": 64800,
+    "booked_tickets": 237,
+    "booked_gross": 47400,
+    "showTime": "09:00 PM",
+    "theatre code": "MAGH",
+    "theatre name": "Mahalaxmi Cinemas: Station Ghanpur"
+  },
+ {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 147,
+    "booked_gross": 61655,
+    "showTime": "07:40 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 87,
+    "booked_gross": 36757,
+    "showTime": "08:00 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 81,
+    "booked_gross": 34397,
+    "showTime": "08:40 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 111,
+    "total_gross": 46492,
+    "booked_tickets": 39,
+    "booked_gross": 16579,
+    "showTime": "09:30 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 173,
+    "booked_gross": 72393,
+    "showTime": "11:15 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 156,
+    "booked_gross": 65490,
+    "showTime": "11:35 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 140,
+    "booked_gross": 58646,
+    "showTime": "12:15 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 106,
+    "booked_gross": 44604,
+    "showTime": "02:50 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 97,
+    "booked_gross": 41005,
+    "showTime": "03:10 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 59,
+    "booked_gross": 24898,
+    "showTime": "03:50 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 111,
+    "total_gross": 46492,
+    "booked_tickets": 27,
+    "booked_gross": 11623,
+    "showTime": "04:05 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 142,
+    "booked_gross": 59531,
+    "showTime": "06:25 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 125,
+    "booked_gross": 52510,
+    "showTime": "06:45 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 108,
+    "booked_gross": 45489,
+    "showTime": "07:25 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 67,
+    "booked_gross": 28320,
+    "showTime": "10:00 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 63,
+    "booked_gross": 26668,
+    "showTime": "10:20 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 111,
+    "total_gross": 46492,
+    "booked_tickets": 21,
+    "booked_gross": 8968,
+    "showTime": "10:40 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 40,
+    "booked_gross": 16992,
+    "showTime": "11:00 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+{
+    "total_tickets": 640,
+    "total_gross": 152300,
+    "booked_tickets": 437,
+    "booked_gross": 109250,
+    "showTime": "11:00 AM",
+    "theatre code": "APRK",
+    "theatre name": "Asian Priya Cineplex: Kamareddy"
+  },
+  {
+    "total_tickets": 640,
+    "total_gross": 152300,
+    "booked_tickets": 263,
+    "booked_gross": 65750,
+    "showTime": "02:30 PM",
+    "theatre code": "APRK",
+    "theatre name": "Asian Priya Cineplex: Kamareddy"
+  },
+  {
+    "total_tickets": 640,
+    "total_gross": 152300,
+    "booked_tickets": 320,
+    "booked_gross": 80000,
+    "showTime": "06:00 PM",
+    "theatre code": "APRK",
+    "theatre name": "Asian Priya Cineplex: Kamareddy"
+  },
+  {
+    "total_tickets": 640,
+    "total_gross": 152300,
+    "booked_tickets": 317,
+    "booked_gross": 79250,
+    "showTime": "09:30 PM",
+    "theatre code": "APRK",
+    "theatre name": "Asian Priya Cineplex: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 415,
+    "booked_gross": 101650,
+    "showTime": "07:00 AM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 374,
+    "booked_gross": 91700,
+    "showTime": "10:50 AM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 271,
+    "booked_gross": 65850,
+    "showTime": "02:15 PM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 263,
+    "booked_gross": 63950,
+    "showTime": "05:50 PM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 307,
+    "booked_gross": 74950,
+    "showTime": "09:20 PM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+{
+    "total_tickets": 547,
+    "total_gross": 127300,
+    "booked_tickets": 430,
+    "booked_gross": 103700,
+    "showTime": "11:00 AM",
+    "theatre code": "ARVB",
+    "theatre name": "AMR Vijay Bhaskar: Bhadrachalam"
+  },
+  {
+    "total_tickets": 547,
+    "total_gross": 127300,
+    "booked_tickets": 273,
+    "booked_gross": 64850,
+    "showTime": "02:15 PM",
+    "theatre code": "ARVB",
+    "theatre name": "AMR Vijay Bhaskar: Bhadrachalam"
+  },
+  {
+    "total_tickets": 547,
+    "total_gross": 127300,
+    "booked_tickets": 287,
+    "booked_gross": 68050,
+    "showTime": "06:00 PM",
+    "theatre code": "ARVB",
+    "theatre name": "AMR Vijay Bhaskar: Bhadrachalam"
+  },
+  {
+    "total_tickets": 547,
+    "total_gross": 127300,
+    "booked_tickets": 271,
+    "booked_gross": 65050,
+    "showTime": "09:15 PM",
+    "theatre code": "ARVB",
+    "theatre name": "AMR Vijay Bhaskar: Bhadrachalam"
+  },
+{
+    "total_tickets": 300,
+    "total_gross": 75000,
+    "booked_tickets": 274,
+    "booked_gross": 68500,
+    "showTime": "10:45 AM",
+    "theatre code": "KLJL",
+    "theatre name": "Kalanjali Theater: Yellandu"
+  },
+  {
+    "total_tickets": 300,
+    "total_gross": 75000,
+    "booked_tickets": 217,
+    "booked_gross": 54250,
+    "showTime": "02:15 PM",
+    "theatre code": "KLJL",
+    "theatre name": "Kalanjali Theater: Yellandu"
+  },
+  {
+    "total_tickets": 300,
+    "total_gross": 75000,
+    "booked_tickets": 247,
+    "booked_gross": 61750,
+    "showTime": "06:15 PM",
+    "theatre code": "KLJL",
+    "theatre name": "Kalanjali Theater: Yellandu"
+  },
+  {
+    "total_tickets": 300,
+    "total_gross": 75000,
+    "booked_tickets": 244,
+    "booked_gross": 61000,
+    "showTime": "09:30 PM",
+    "theatre code": "KLJL",
+    "theatre name": "Kalanjali Theater: Yellandu"
+  },
+ {
+    "total_tickets": 558,
+    "total_gross": 125800,
+    "booked_tickets": 282,
+    "booked_gross": 70500,
+    "showTime": "11:00 AM",
+    "theatre code": "SLST",
+    "theatre name": "Lakshmi Srinivasa Theatre: Madhira"
+  },
+  {
+    "total_tickets": 558,
+    "total_gross": 125800,
+    "booked_tickets": 173,
+    "booked_gross": 43250,
+    "showTime": "02:15 PM",
+    "theatre code": "SLST",
+    "theatre name": "Lakshmi Srinivasa Theatre: Madhira"
+  },
+  {
+    "total_tickets": 558,
+    "total_gross": 125800,
+    "booked_tickets": 224,
+    "booked_gross": 56000,
+    "showTime": "06:15 PM",
+    "theatre code": "SLST",
+    "theatre name": "Lakshmi Srinivasa Theatre: Madhira"
+  },
+  {
+    "total_tickets": 558,
+    "total_gross": 125800,
+    "booked_tickets": 174,
+    "booked_gross": 43500,
+    "showTime": "09:30 PM",
+    "theatre code": "SLST",
+    "theatre name": "Lakshmi Srinivasa Theatre: Madhira"
+  },
+  {
+    "total_tickets": 464,
+    "total_gross": 111200,
+    "booked_tickets": 127,
+    "booked_gross": 31750,
+    "showTime": "11:00 AM",
+    "theatre code": "STMI",
+    "theatre name": "Santhi Theatre: Madhira"
+  },
+  {
+    "total_tickets": 464,
+    "total_gross": 111200,
+    "booked_tickets": 81,
+    "booked_gross": 20250,
+    "showTime": "02:15 PM",
+    "theatre code": "STMI",
+    "theatre name": "Santhi Theatre: Madhira"
+  },
+  {
+    "total_tickets": 464,
+    "total_gross": 111200,
+    "booked_tickets": 103,
+    "booked_gross": 25750,
+    "showTime": "06:15 PM",
+    "theatre code": "STMI",
+    "theatre name": "Santhi Theatre: Madhira"
+  },
+  {
+    "total_tickets": 464,
+    "total_gross": 111200,
+    "booked_tickets": 84,
+    "booked_gross": 21000,
+    "showTime": "09:30 PM",
+    "theatre code": "STMI",
+    "theatre name": "Santhi Theatre: Madhira"
+  },
+{
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 198,
+    "booked_gross": 46000,
+    "showTime": "07:00 AM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+  {
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 314,
+    "booked_gross": 75000,
+    "showTime": "11:00 AM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+  {
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 203,
+    "booked_gross": 47250,
+    "showTime": "02:00 PM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+  {
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 207,
+    "booked_gross": 48250,
+    "showTime": "06:00 PM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+  {
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 189,
+    "booked_gross": 43750,
+    "showTime": "09:00 PM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+{
+    "total_tickets": 565,
+    "total_gross": 120100,
+    "booked_tickets": 450,
+    "booked_gross": 97100,
+    "showTime": "11:00 AM",
+    "theatre code": "SBLS",
+    "theatre name": "Sri Sai Balaji Theatre: Sathupally"
+  },
+  {
+    "total_tickets": 565,
+    "total_gross": 120100,
+    "booked_tickets": 353,
+    "booked_gross": 78850,
+    "showTime": "02:15 PM",
+    "theatre code": "SBLS",
+    "theatre name": "Sri Sai Balaji Theatre: Sathupally"
+  },
+  {
+    "total_tickets": 565,
+    "total_gross": 120100,
+    "booked_tickets": 353,
+    "booked_gross": 81250,
+    "showTime": "06:00 PM",
+    "theatre code": "SBLS",
+    "theatre name": "Sri Sai Balaji Theatre: Sathupally"
+  },
+  {
+    "total_tickets": 565,
+    "total_gross": 120100,
+    "booked_tickets": 309,
+    "booked_gross": 72250,
+    "showTime": "09:30 PM",
+    "theatre code": "SBLS",
+    "theatre name": "Sri Sai Balaji Theatre: Sathupally"
+  },
+{
+    "total_tickets": 249,
+    "total_gross": 62250,
+    "booked_tickets": 40,
+    "booked_gross": 10000,
+    "showTime": "11:00 AM",
+    "theatre code": "VKMK",
+    "theatre name": "Venkata Ramana Theatre: Makthal"
+  },
+  {
+    "total_tickets": 249,
+    "total_gross": 62250,
+    "booked_tickets": 38,
+    "booked_gross": 9500,
+    "showTime": "02:00 PM",
+    "theatre code": "VKMK",
+    "theatre name": "Venkata Ramana Theatre: Makthal"
+  },
+  {
+    "total_tickets": 249,
+    "total_gross": 62250,
+    "booked_tickets": 38,
+    "booked_gross": 9500,
+    "showTime": "06:00 PM",
+    "theatre code": "VKMK",
+    "theatre name": "Venkata Ramana Theatre: Makthal"
+  },
+  {
+    "total_tickets": 249,
+    "total_gross": 62250,
+    "booked_tickets": 38,
+    "booked_gross": 9500,
+    "showTime": "09:00 PM",
+    "theatre code": "VKMK",
+    "theatre name": "Venkata Ramana Theatre: Makthal"
+  },
+ {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 589,
+    "booked_gross": 119400,
+    "showTime": "07:00 AM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 612,
+    "booked_gross": 121700,
+    "showTime": "10:45 AM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 505,
+    "booked_gross": 106850,
+    "showTime": "02:00 PM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 511,
+    "booked_gross": 107350,
+    "showTime": "05:45 PM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 566,
+    "booked_gross": 116650,
+    "showTime": "09:15 PM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 478,
+    "total_gross": 98000,
+    "booked_tickets": 425,
+    "booked_gross": 92700,
+    "showTime": "10:40 AM",
+    "theatre code": "SHDN",
+    "theatre name": "Sri Sai Baba: Shadnagar"
+  },
+  {
+    "total_tickets": 478,
+    "total_gross": 98000,
+    "booked_tickets": 220,
+    "booked_gross": 49050,
+    "showTime": "02:00 PM",
+    "theatre code": "SHDN",
+    "theatre name": "Sri Sai Baba: Shadnagar"
+  },
+  {
+    "total_tickets": 478,
+    "total_gross": 98000,
+    "booked_tickets": 314,
+    "booked_gross": 71150,
+    "showTime": "05:40 PM",
+    "theatre code": "SHDN",
+    "theatre name": "Sri Sai Baba: Shadnagar"
+  },
+  {
+    "total_tickets": 478,
+    "total_gross": 98000,
+    "booked_tickets": 385,
+    "booked_gross": 85850,
+    "showTime": "09:00 PM",
+    "theatre code": "SHDN",
+    "theatre name": "Sri Sai Baba: Shadnagar"
+  },
+{
+    "total_tickets": 455,
+    "total_gross": 134225,
+    "booked_tickets": 368,
+    "booked_gross": 108560,
+    "showTime": "07:30 AM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+  {
+    "total_tickets": 455,
+    "total_gross": 118300,
+    "booked_tickets": 412,
+    "booked_gross": 107120,
+    "showTime": "10:45 AM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+  {
+    "total_tickets": 455,
+    "total_gross": 118300,
+    "booked_tickets": 351,
+    "booked_gross": 91260,
+    "showTime": "02:15 PM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+  {
+    "total_tickets": 455,
+    "total_gross": 118300,
+    "booked_tickets": 328,
+    "booked_gross": 85280,
+    "showTime": "05:45 PM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+  {
+    "total_tickets": 455,
+    "total_gross": 118300,
+    "booked_tickets": 343,
+    "booked_gross": 89180,
+    "showTime": "09:15 PM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+{
+    "total_tickets": 431,
+    "total_gross": 105350,
+    "booked_tickets": 263,
+    "booked_gross": 65750,
+    "showTime": "11:00 AM",
+    "theatre code": "ASHO",
+    "theatre name": "Ashoka Cinema: Kalwakurthy"
+  },
+  {
+    "total_tickets": 431,
+    "total_gross": 105350,
+    "booked_tickets": 179,
+    "booked_gross": 44750,
+    "showTime": "02:30 PM",
+    "theatre code": "ASHO",
+    "theatre name": "Ashoka Cinema: Kalwakurthy"
+  },
+  {
+    "total_tickets": 431,
+    "total_gross": 105350,
+    "booked_tickets": 179,
+    "booked_gross": 44750,
+    "showTime": "06:00 PM",
+    "theatre code": "ASHO",
+    "theatre name": "Ashoka Cinema: Kalwakurthy"
+  },
+  {
+    "total_tickets": 431,
+    "total_gross": 105350,
+    "booked_tickets": 216,
+    "booked_gross": 54000,
+    "showTime": "09:30 PM",
+    "theatre code": "ASHO",
+    "theatre name": "Ashoka Cinema: Kalwakurthy"
+  },
+{
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 575,
+    "booked_gross": 133554,
+    "showTime": "07:00 AM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 459,
+    "booked_gross": 102384,
+    "showTime": "11:00 AM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 239,
+    "booked_gross": 51779,
+    "showTime": "02:00 PM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 345,
+    "booked_gross": 65825,
+    "showTime": "06:00 PM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 323,
+    "booked_gross": 60296,
+    "showTime": "09:15 PM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 574,
+    "total_gross": 132350,
+    "booked_tickets": 143,
+    "booked_gross": 34850,
+    "showTime": "11:00 AM",
+    "theatre code": "DUKL",
+    "theatre name": "Durga Raja Kalamandir: Jagtial"
+  },
+  {
+    "total_tickets": 574,
+    "total_gross": 132350,
+    "booked_tickets": 69,
+    "booked_gross": 16550,
+    "showTime": "02:10 PM",
+    "theatre code": "DUKL",
+    "theatre name": "Durga Raja Kalamandir: Jagtial"
+  },
+  {
+    "total_tickets": 574,
+    "total_gross": 132350,
+    "booked_tickets": 69,
+    "booked_gross": 16350,
+    "showTime": "06:00 PM",
+    "theatre code": "DUKL",
+    "theatre name": "Durga Raja Kalamandir: Jagtial"
+  },
+  {
+    "total_tickets": 574,
+    "total_gross": 132350,
+    "booked_tickets": 77,
+    "booked_gross": 18150,
+    "showTime": "09:15 PM",
+    "theatre code": "DUKL",
+    "theatre name": "Durga Raja Kalamandir: Jagtial"
+  },
+  {
+    "total_tickets": 627,
+    "total_gross": 137758,
+    "booked_tickets": 72,
+    "booked_gross": 15889,
+    "showTime": "11:00 AM",
+    "theatre code": "SRJA",
+    "theatre name": "Srinivasa Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 627,
+    "total_gross": 137758,
+    "booked_tickets": 36,
+    "booked_gross": 7946,
+    "showTime": "02:00 PM",
+    "theatre code": "SRJA",
+    "theatre name": "Srinivasa Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 627,
+    "total_gross": 137758,
+    "booked_tickets": 78,
+    "booked_gross": 14542,
+    "showTime": "06:00 PM",
+    "theatre code": "SRJA",
+    "theatre name": "Srinivasa Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 627,
+    "total_gross": 137758,
+    "booked_tickets": 54,
+    "booked_gross": 11692,
+    "showTime": "09:00 PM",
+    "theatre code": "SRJA",
+    "theatre name": "Srinivasa Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 708,
+    "total_gross": 163350,
+    "booked_tickets": 447,
+    "booked_gross": 109200,
+    "showTime": "11:00 AM",
+    "theatre code": "VLSS",
+    "theatre name": "VLS Sri Rama Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 708,
+    "total_gross": 163350,
+    "booked_tickets": 327,
+    "booked_gross": 78950,
+    "showTime": "02:15 PM",
+    "theatre code": "VLSS",
+    "theatre name": "VLS Sri Rama Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 708,
+    "total_gross": 163350,
+    "booked_tickets": 386,
+    "booked_gross": 93800,
+    "showTime": "06:00 PM",
+    "theatre code": "VLSS",
+    "theatre name": "VLS Sri Rama Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 708,
+    "total_gross": 163350,
+    "booked_tickets": 373,
+    "booked_gross": 90650,
+    "showTime": "09:15 PM",
+    "theatre code": "VLSS",
+    "theatre name": "VLS Sri Rama Theatre: Jagtial"
+  },
+{
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 285,
+    "booked_gross": 71250,
+    "showTime": "07:00 AM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+  {
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 252,
+    "booked_gross": 63000,
+    "showTime": "11:15 AM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+  {
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 189,
+    "booked_gross": 47250,
+    "showTime": "02:30 PM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+  {
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 204,
+    "booked_gross": 51000,
+    "showTime": "06:15 PM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+  {
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 203,
+    "booked_gross": 50750,
+    "showTime": "09:30 PM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+{
+    "total_tickets": 656,
+    "total_gross": 148200,
+    "booked_tickets": 442,
+    "booked_gross": 104500,
+    "showTime": "10:45 AM",
+    "theatre code": "SKME",
+    "theatre name": "Asian Sai Krishna: Metpally"
+  },
+  {
+    "total_tickets": 656,
+    "total_gross": 148200,
+    "booked_tickets": 351,
+    "booked_gross": 82750,
+    "showTime": "02:15 PM",
+    "theatre code": "SKME",
+    "theatre name": "Asian Sai Krishna: Metpally"
+  },
+  {
+    "total_tickets": 656,
+    "total_gross": 148200,
+    "booked_tickets": 272,
+    "booked_gross": 63700,
+    "showTime": "05:45 PM",
+    "theatre code": "SKME",
+    "theatre name": "Asian Sai Krishna: Metpally"
+  },
+  {
+    "total_tickets": 656,
+    "total_gross": 148200,
+    "booked_tickets": 178,
+    "booked_gross": 42700,
+    "showTime": "09:15 PM",
+    "theatre code": "SKME",
+    "theatre name": "Asian Sai Krishna: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 349,
+    "booked_gross": 73750,
+    "showTime": "07:30 AM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 248,
+    "booked_gross": 52500,
+    "showTime": "11:00 AM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 233,
+    "booked_gross": 50050,
+    "showTime": "02:00 PM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 218,
+    "booked_gross": 47100,
+    "showTime": "06:00 PM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 224,
+    "booked_gross": 48300,
+    "showTime": "09:00 PM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+{
+    "total_tickets": 600,
+    "total_gross": 133650,
+    "booked_tickets": 233,
+    "booked_gross": 55400,
+    "showTime": "11:00 AM",
+    "theatre code": "ANRS",
+    "theatre name": "Asian Natraj Deluxe Theatre A/c: Sircilla"
+  },
+  {
+    "total_tickets": 600,
+    "total_gross": 133650,
+    "booked_tickets": 161,
+    "booked_gross": 38000,
+    "showTime": "02:30 PM",
+    "theatre code": "ANRS",
+    "theatre name": "Asian Natraj Deluxe Theatre A/c: Sircilla"
+  },
+  {
+    "total_tickets": 600,
+    "total_gross": 133650,
+    "booked_tickets": 202,
+    "booked_gross": 46900,
+    "showTime": "06:00 PM",
+    "theatre code": "ANRS",
+    "theatre name": "Asian Natraj Deluxe Theatre A/c: Sircilla"
+  },
+  {
+    "total_tickets": 600,
+    "total_gross": 133650,
+    "booked_tickets": 194,
+    "booked_gross": 47600,
+    "showTime": "09:30 PM",
+    "theatre code": "ANRS",
+    "theatre name": "Asian Natraj Deluxe Theatre A/c: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 419,
+    "booked_gross": 104750,
+    "showTime": "07:00 AM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 281,
+    "booked_gross": 70250,
+    "showTime": "11:00 AM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 184,
+    "booked_gross": 46000,
+    "showTime": "02:15 PM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 246,
+    "booked_gross": 61500,
+    "showTime": "06:00 PM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 288,
+    "booked_gross": 72000,
+    "showTime": "09:20 PM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+ {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 620,
+    "booked_gross": 130250,
+    "showTime": "07:30 AM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 618,
+    "booked_gross": 129750,
+    "showTime": "11:00 AM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 389,
+    "booked_gross": 78200,
+    "showTime": "02:30 PM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 425,
+    "booked_gross": 88100,
+    "showTime": "06:00 PM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 437,
+    "booked_gross": 90800,
+    "showTime": "09:30 PM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 150200,
+    "booked_tickets": 362,
+    "booked_gross": 49000,
+    "showTime": "04:00 AM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 178250,
+    "booked_tickets": 458,
+    "booked_gross": 89400,
+    "showTime": "11:00 AM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 178250,
+    "booked_tickets": 119,
+    "booked_gross": 23800,
+    "showTime": "02:30 PM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 178250,
+    "booked_tickets": 199,
+    "booked_gross": 41950,
+    "showTime": "06:00 PM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 178250,
+    "booked_tickets": 163,
+    "booked_gross": 32950,
+    "showTime": "09:30 PM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 163,
+    "booked_gross": 70190,
+    "showTime": "07:15 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 131,
+    "booked_gross": 56410,
+    "showTime": "07:30 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 18,
+    "booked_gross": 8460,
+    "showTime": "07:45 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 41,
+    "booked_gross": 17650,
+    "showTime": "08:15 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 48,
+    "booked_gross": 21240,
+    "showTime": "11:00 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 37,
+    "booked_gross": 15890,
+    "showTime": "11:15 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 22,
+    "booked_gross": 9860,
+    "showTime": "11:45 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 15,
+    "booked_gross": 7050,
+    "showTime": "12:00 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 15,
+    "booked_gross": 6690,
+    "showTime": "02:15 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 17,
+    "booked_gross": 7570,
+    "showTime": "02:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 8,
+    "booked_gross": 3460,
+    "showTime": "03:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 8,
+    "booked_gross": 3760,
+    "showTime": "04:00 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 64,
+    "booked_gross": 27800,
+    "showTime": "06:00 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 57,
+    "booked_gross": 24930,
+    "showTime": "06:15 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 48,
+    "booked_gross": 20700,
+    "showTime": "06:45 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 53,
+    "booked_gross": 24910,
+    "showTime": "07:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 49,
+    "booked_gross": 21770,
+    "showTime": "09:15 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 46,
+    "booked_gross": 20120,
+    "showTime": "09:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 22,
+    "booked_gross": 9500,
+    "showTime": "10:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 6,
+    "booked_gross": 2820,
+    "showTime": "10:45 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+{
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 922,
+    "booked_gross": 205350,
+    "showTime": "04:00 AM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 659,
+    "booked_gross": 152650,
+    "showTime": "07:30 AM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 612,
+    "booked_gross": 140900,
+    "showTime": "11:00 AM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 447,
+    "booked_gross": 103750,
+    "showTime": "02:30 PM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 424,
+    "booked_gross": 99800,
+    "showTime": "06:00 PM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 445,
+    "booked_gross": 102750,
+    "showTime": "09:30 PM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 64,
+    "booked_gross": 30080,
+    "showTime": "07:00 AM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 12,
+    "booked_gross": 5640,
+    "showTime": "11:00 AM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 6,
+    "booked_gross": 2820,
+    "showTime": "02:15 PM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 16,
+    "booked_gross": 7520,
+    "showTime": "06:00 PM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 17,
+    "booked_gross": 7990,
+    "showTime": "09:15 PM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 149460,
+    "booked_tickets": 267,
+    "booked_gross": 125490,
+    "showTime": "06:00 AM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 159330,
+    "booked_tickets": 208,
+    "booked_gross": 97760,
+    "showTime": "06:30 AM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 78,
+    "booked_gross": 31980,
+    "showTime": "10:45 AM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 130380,
+    "booked_tickets": 65,
+    "booked_gross": 26650,
+    "showTime": "11:00 AM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 43,
+    "booked_gross": 17630,
+    "showTime": "02:15 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 130380,
+    "booked_tickets": 53,
+    "booked_gross": 21730,
+    "showTime": "02:30 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 130380,
+    "booked_tickets": 83,
+    "booked_gross": 34030,
+    "showTime": "06:00 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 80,
+    "booked_gross": 32800,
+    "showTime": "06:15 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 130380,
+    "booked_tickets": 94,
+    "booked_gross": 38540,
+    "showTime": "09:30 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 68,
+    "booked_gross": 27880,
+    "showTime": "09:45 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+{
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 594,
+    "booked_gross": 127500,
+    "showTime": "07:30 AM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 610,
+    "booked_gross": 130450,
+    "showTime": "11:30 AM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 489,
+    "booked_gross": 107950,
+    "showTime": "03:00 PM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 505,
+    "booked_gross": 111000,
+    "showTime": "06:30 PM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 463,
+    "booked_gross": 102400,
+    "showTime": "10:15 PM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 249,
+    "booked_gross": 100770,
+    "showTime": "04:15 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 229,
+    "total_gross": 92300,
+    "booked_tickets": 201,
+    "booked_gross": 81240,
+    "showTime": "04:30 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 157,
+    "booked_gross": 63770,
+    "showTime": "04:45 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 191,
+    "booked_gross": 79090,
+    "showTime": "08:00 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 229,
+    "total_gross": 92300,
+    "booked_tickets": 15,
+    "booked_gross": 6870,
+    "showTime": "08:15 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 133,
+    "booked_gross": 55190,
+    "showTime": "08:30 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 143,
+    "booked_gross": 59410,
+    "showTime": "11:30 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 229,
+    "total_gross": 92300,
+    "booked_tickets": 12,
+    "booked_gross": 5640,
+    "showTime": "11:45 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 96,
+    "booked_gross": 40020,
+    "showTime": "12:00 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 59,
+    "booked_gross": 24970,
+    "showTime": "03:00 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 36,
+    "booked_gross": 15420,
+    "showTime": "03:30 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 141,
+    "booked_gross": 58590,
+    "showTime": "06:30 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 229,
+    "total_gross": 92300,
+    "booked_tickets": 12,
+    "booked_gross": 5640,
+    "showTime": "06:45 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 118,
+    "booked_gross": 49040,
+    "showTime": "07:00 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 123,
+    "booked_gross": 51210,
+    "showTime": "10:00 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 85,
+    "booked_gross": 35510,
+    "showTime": "10:30 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+{
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 370,
+    "booked_gross": 107060,
+    "showTime": "07:30 AM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+  {
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 350,
+    "booked_gross": 101160,
+    "showTime": "11:00 AM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+  {
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 129,
+    "booked_gross": 35965,
+    "showTime": "02:30 PM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+  {
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 165,
+    "booked_gross": 46585,
+    "showTime": "06:00 PM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+  {
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 170,
+    "booked_gross": 48060,
+    "showTime": "09:30 PM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+   {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 624,
+    "booked_gross": 171790,
+    "showTime": "07:30 AM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+  {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 378,
+    "booked_gross": 102640,
+    "showTime": "11:00 AM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+  {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 288,
+    "booked_gross": 76810,
+    "showTime": "02:30 PM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+  {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 315,
+    "booked_gross": 85375,
+    "showTime": "06:00 PM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+  {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 259,
+    "booked_gross": 69215,
+    "showTime": "09:30 PM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+{
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "04:00 AM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "07:00 AM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "11:00 AM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "02:00 PM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "06:00 PM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "09:00 PM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 473,
+    "booked_gross": 55250,
+    "showTime": "06:00 AM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 407,
+    "booked_gross": 38750,
+    "showTime": "10:00 AM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 375,
+    "booked_gross": 30750,
+    "showTime": "01:30 PM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 376,
+    "booked_gross": 31000,
+    "showTime": "05:30 PM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 387,
+    "booked_gross": 33750,
+    "showTime": "09:00 PM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+{
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 854,
+    "booked_gross": 202420,
+    "showTime": "3:45 AM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 818,
+    "booked_gross": 196875,
+    "showTime": "7:15 AM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 761,
+    "booked_gross": 188470,
+    "showTime": "10:45 AM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 676,
+    "booked_gross": 170530,
+    "showTime": "2:15 PM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 710,
+    "booked_gross": 179770,
+    "showTime": "6:00 PM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 714,
+    "booked_gross": 179120,
+    "showTime": "9:45 PM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 551,
+    "booked_gross": 151375,
+    "showTime": "7:15 AM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 610,
+    "booked_gross": 164510,
+    "showTime": "11:00 AM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 383,
+    "booked_gross": 107810,
+    "showTime": "2:45 PM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 465,
+    "booked_gross": 132015,
+    "showTime": "6:30 PM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 424,
+    "booked_gross": 120400,
+    "showTime": "10:30 PM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+{
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 526,
+    "booked_gross": 139100,
+    "showTime": "4:00 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 232,
+    "booked_gross": 68320,
+    "showTime": "7:45 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 465,
+    "booked_gross": 125730,
+    "showTime": "8:00 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 200,
+    "booked_gross": 59000,
+    "showTime": "11:15 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 430,
+    "booked_gross": 117810,
+    "showTime": "11:30 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 175,
+    "booked_gross": 51565,
+    "showTime": "2:45 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 398,
+    "booked_gross": 109820,
+    "showTime": "3:00 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 193,
+    "booked_gross": 56935,
+    "showTime": "6:15 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 419,
+    "booked_gross": 115355,
+    "showTime": "6:30 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 198,
+    "booked_gross": 58230,
+    "showTime": "9:45 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 420,
+    "booked_gross": 115680,
+    "showTime": "10:00 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 298,
+    "booked_gross": 122180,
+    "showTime": "4:00 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 279,
+    "booked_gross": 114390,
+    "showTime": "4:20 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 282,
+    "booked_gross": 115620,
+    "showTime": "8:10 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 254,
+    "booked_gross": 104140,
+    "showTime": "8:30 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 170,
+    "booked_gross": 69700,
+    "showTime": "8:50 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 265,
+    "booked_gross": 108650,
+    "showTime": "11:40 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 221,
+    "booked_gross": 90610,
+    "showTime": "12:00 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 161,
+    "booked_gross": 66010,
+    "showTime": "12:20 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 216,
+    "booked_gross": 88560,
+    "showTime": "3:10 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 199,
+    "booked_gross": 81590,
+    "showTime": "3:30 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 165,
+    "booked_gross": 67650,
+    "showTime": "3:50 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 281,
+    "booked_gross": 115210,
+    "showTime": "6:40 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 280,
+    "booked_gross": 114800,
+    "showTime": "7:00 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 230,
+    "booked_gross": 94300,
+    "showTime": "7:20 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 264,
+    "booked_gross": 108240,
+    "showTime": "10:10 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 233,
+    "booked_gross": 95530,
+    "showTime": "10:30 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 161,
+    "booked_gross": 66010,
+    "showTime": "10:45 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 247,
+    "booked_gross": 102011,
+    "showTime": "4:05 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 308,
+    "booked_gross": 127204,
+    "showTime": "5:05 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+{
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 205,
+    "booked_gross": 84665,
+    "showTime": "7:40 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 69,
+    "booked_gross": 28497,
+    "showTime": "8:00 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 79,
+    "booked_gross": 32627,
+    "showTime": "8:20 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 189,
+    "booked_gross": 78057,
+    "showTime": "8:40 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 97,
+    "total_gross": 40061,
+    "booked_tickets": 53,
+    "booked_gross": 21889,
+    "showTime": "10:15 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 158,
+    "booked_gross": 65254,
+    "showTime": "11:15 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 61,
+    "booked_gross": 25193,
+    "showTime": "11:35 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 64,
+    "booked_gross": 26432,
+    "showTime": "11:55 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 167,
+    "booked_gross": 68971,
+    "showTime": "12:15 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 128,
+    "booked_gross": 52864,
+    "showTime": "2:50 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 56,
+    "booked_gross": 23128,
+    "showTime": "3:10 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 81,
+    "booked_gross": 33453,
+    "showTime": "3:30 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 186,
+    "booked_gross": 76818,
+    "showTime": "3:50 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 197,
+    "booked_gross": 81361,
+    "showTime": "6:25 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 79,
+    "booked_gross": 32627,
+    "showTime": "6:45 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 116,
+    "booked_gross": 47908,
+    "showTime": "7:05 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 260,
+    "booked_gross": 107380,
+    "showTime": "7:25 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 198,
+    "booked_gross": 81774,
+    "showTime": "10:00 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 83,
+    "booked_gross": 34279,
+    "showTime": "10:20 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 110,
+    "booked_gross": 45430,
+    "showTime": "10:40 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 97,
+    "total_gross": 40061,
+    "booked_tickets": 50,
+    "booked_gross": 20650,
+    "showTime": "10:50 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 224,
+    "booked_gross": 92512,
+    "showTime": "11:00 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 549,
+    "booked_gross": 153555,
+    "showTime": "7:30 AM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 300,
+    "booked_gross": 85500,
+    "showTime": "11:00 AM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 50,
+    "booked_gross": 14450,
+    "showTime": "2:45 PM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 191,
+    "booked_gross": 55085,
+    "showTime": "6:30 PM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 106,
+    "booked_gross": 30670,
+    "showTime": "10:00 PM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 139360,
+    "booked_tickets": 226,
+    "booked_gross": 62470,
+    "showTime": "7:00 AM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 137610,
+    "booked_tickets": 214,
+    "booked_gross": 54575,
+    "showTime": "11:00 AM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 137610,
+    "booked_tickets": 173,
+    "booked_gross": 43500,
+    "showTime": "2:40 PM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 137610,
+    "booked_tickets": 215,
+    "booked_gross": 55110,
+    "showTime": "6:30 PM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 137610,
+    "booked_tickets": 209,
+    "booked_gross": 53520,
+    "showTime": "10:00 PM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  }
+]
+
+Copy Snippet
+Edit Snippet
+ Wordwrap
+[
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 700,
+    "booked_gross": 185330,
+    "showTime": "04:30 AM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 441,
+    "booked_gross": 109360,
+    "showTime": "08:00 AM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 404,
+    "booked_gross": 98880,
+    "showTime": "11:30 AM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 224,
+    "booked_gross": 50855,
+    "showTime": "03:00 PM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 356,
+    "booked_gross": 85300,
+    "showTime": "06:30 PM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 185330,
+    "booked_tickets": 365,
+    "booked_gross": 89985,
+    "showTime": "10:00 PM",
+    "theatre code": "ASMH",
+    "theatre name": "Asian Srinivasa: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 639,
+    "booked_gross": 179710,
+    "showTime": "04:15 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 409,
+    "booked_gross": 110905,
+    "showTime": "04:30 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 352,
+    "booked_gross": 100120,
+    "showTime": "04:45 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 571,
+    "booked_gross": 163730,
+    "showTime": "07:30 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 281,
+    "booked_gross": 81235,
+    "showTime": "07:45 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 250,
+    "booked_gross": 73570,
+    "showTime": "08:00 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 558,
+    "booked_gross": 160675,
+    "showTime": "11:00 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 270,
+    "booked_gross": 76560,
+    "showTime": "11:15 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 231,
+    "booked_gross": 67785,
+    "showTime": "11:30 AM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 477,
+    "booked_gross": 138640,
+    "showTime": "02:30 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 197,
+    "booked_gross": 55265,
+    "showTime": "02:45 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 109,
+    "booked_gross": 32155,
+    "showTime": "03:00 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 504,
+    "booked_gross": 146785,
+    "showTime": "06:00 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 237,
+    "booked_gross": 66885,
+    "showTime": "06:15 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 161,
+    "booked_gross": 47495,
+    "showTime": "06:30 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 639,
+    "total_gross": 179710,
+    "booked_tickets": 492,
+    "booked_gross": 142705,
+    "showTime": "09:30 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 409,
+    "total_gross": 110905,
+    "booked_tickets": 229,
+    "booked_gross": 64585,
+    "showTime": "09:45 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 352,
+    "total_gross": 100120,
+    "booked_tickets": 163,
+    "booked_gross": 48085,
+    "showTime": "10:00 PM",
+    "theatre code": "AVDM",
+    "theatre name": "AVD Cinemas: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 464,
+    "booked_gross": 136880,
+    "showTime": "04:15 AM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 335,
+    "booked_gross": 98825,
+    "showTime": "07:30 AM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 289,
+    "booked_gross": 85255,
+    "showTime": "11:00 AM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 205,
+    "booked_gross": 60475,
+    "showTime": "02:15 PM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 233,
+    "booked_gross": 68735,
+    "showTime": "06:00 PM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+  {
+    "total_tickets": 655,
+    "total_gross": 175080,
+    "booked_tickets": 286,
+    "booked_gross": 84370,
+    "showTime": "09:15 PM",
+    "theatre code": "VTMB",
+    "theatre name": "Venkateswara Theatre: Mahbubnagar"
+  },
+​
+{
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 152,
+    "booked_gross": 63520,
+    "showTime": "08:10 AM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 168,
+    "booked_gross": 70080,
+    "showTime": "11:40 AM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 95,
+    "booked_gross": 40150,
+    "showTime": "03:10 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 148,
+    "booked_gross": 61880,
+    "showTime": "06:40 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 290,
+    "total_gross": 118900,
+    "booked_tickets": 4,
+    "booked_gross": 1640,
+    "showTime": "07:20 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 89,
+    "booked_gross": 37690,
+    "showTime": "10:10 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 270,
+    "booked_gross": 112454,
+    "showTime": "07:40 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 55,
+    "booked_gross": 23482,
+    "showTime": "08:40 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 196,
+    "booked_gross": 81892,
+    "showTime": "11:15 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 86,
+    "booked_gross": 36285,
+    "showTime": "12:15 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 136,
+    "booked_gross": 57112,
+    "showTime": "02:50 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 52,
+    "booked_gross": 22243,
+    "showTime": "03:50 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 198,
+    "booked_gross": 82718,
+    "showTime": "06:25 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 109,
+    "booked_gross": 45784,
+    "showTime": "07:25 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 173,
+    "booked_gross": 72393,
+    "showTime": "10:00 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 69,
+    "booked_gross": 29264,
+    "showTime": "11:00 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+​
+{
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 152,
+    "booked_gross": 63520,
+    "showTime": "08:10 AM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 168,
+    "booked_gross": 70080,
+    "showTime": "11:40 AM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 95,
+    "booked_gross": 40150,
+    "showTime": "03:10 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 148,
+    "booked_gross": 61880,
+    "showTime": "06:40 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 290,
+    "total_gross": 118900,
+    "booked_tickets": 4,
+    "booked_gross": 1640,
+    "showTime": "07:20 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 335,
+    "total_gross": 138550,
+    "booked_tickets": 89,
+    "booked_gross": 37690,
+    "showTime": "10:10 PM",
+    "theatre code": "AUPM",
+    "theatre name": "Asian Usha Prasad Multiplex: Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 270,
+    "booked_gross": 112454,
+    "showTime": "07:40 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 55,
+    "booked_gross": 23482,
+    "showTime": "08:40 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 196,
+    "booked_gross": 81892,
+    "showTime": "11:15 AM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 83,
+    "booked_gross": 35046,
+    "showTime": "12:15 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 136,
+    "booked_gross": 57112,
+    "showTime": "02:50 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 52,
+    "booked_gross": 22243,
+    "showTime": "03:50 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 198,
+    "booked_gross": 82718,
+    "showTime": "06:25 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 109,
+    "booked_gross": 45784,
+    "showTime": "07:25 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 370,
+    "total_gross": 153754,
+    "booked_tickets": 173,
+    "booked_gross": 72393,
+    "showTime": "10:00 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+  {
+    "total_tickets": 375,
+    "total_gross": 155642,
+    "booked_tickets": 67,
+    "booked_gross": 28438,
+    "showTime": "11:00 PM",
+    "theatre code": "PRVN",
+    "theatre name": "PVR: Venu Mall, Nizamabad"
+  },
+{
+    "total_tickets": 612,
+    "total_gross": 139200,
+    "booked_tickets": 326,
+    "booked_gross": 77200,
+    "showTime": "11:00 AM",
+    "theatre code": "SHMT",
+    "theatre name": "Shanth Mahal Talkies: Tandur"
+  },
+  {
+    "total_tickets": 612,
+    "total_gross": 139200,
+    "booked_tickets": 132,
+    "booked_gross": 31000,
+    "showTime": "02:15 PM",
+    "theatre code": "SHMT",
+    "theatre name": "Shanth Mahal Talkies: Tandur"
+  },
+  {
+    "total_tickets": 612,
+    "total_gross": 139200,
+    "booked_tickets": 150,
+    "booked_gross": 36800,
+    "showTime": "05:45 PM",
+    "theatre code": "SHMT",
+    "theatre name": "Shanth Mahal Talkies: Tandur"
+  },
+  {
+    "total_tickets": 612,
+    "total_gross": 139200,
+    "booked_tickets": 98,
+    "booked_gross": 24200,
+    "showTime": "09:00 PM",
+    "theatre code": "SHMT",
+    "theatre name": "Shanth Mahal Talkies: Tandur"
+  },
+{
+    "total_tickets": 570,
+    "total_gross": 129550,
+    "booked_tickets": 309,
+    "booked_gross": 74750,
+    "showTime": "11:00 AM",
+    "theatre code": "ASSL",
+    "theatre name": "Asian Sailaja: Vikarabad"
+  },
+  {
+    "total_tickets": 570,
+    "total_gross": 129550,
+    "booked_tickets": 207,
+    "booked_gross": 49950,
+    "showTime": "02:30 PM",
+    "theatre code": "ASSL",
+    "theatre name": "Asian Sailaja: Vikarabad"
+  },
+  {
+    "total_tickets": 570,
+    "total_gross": 129550,
+    "booked_tickets": 212,
+    "booked_gross": 51700,
+    "showTime": "06:00 PM",
+    "theatre code": "ASSL",
+    "theatre name": "Asian Sailaja: Vikarabad"
+  },
+  {
+    "total_tickets": 570,
+    "total_gross": 129550,
+    "booked_tickets": 264,
+    "booked_gross": 65400,
+    "showTime": "09:30 PM",
+    "theatre code": "ASSL",
+    "theatre name": "Asian Sailaja: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 485,
+    "booked_gross": 104250,
+    "showTime": "04:00 AM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 615,
+    "booked_gross": 134150,
+    "showTime": "07:30 AM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 491,
+    "booked_gross": 104950,
+    "showTime": "11:00 AM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 403,
+    "booked_gross": 85250,
+    "showTime": "02:30 PM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 448,
+    "booked_gross": 95800,
+    "showTime": "06:00 PM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+  {
+    "total_tickets": 764,
+    "total_gross": 162900,
+    "booked_tickets": 470,
+    "booked_gross": 102300,
+    "showTime": "09:30 PM",
+    "theatre code": "CMVB",
+    "theatre name": "Cinemax: Vikarabad"
+  },
+ {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 405,
+    "booked_gross": 101250,
+    "showTime": "06:00 AM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 285,
+    "booked_gross": 71250,
+    "showTime": "11:00 AM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 195,
+    "booked_gross": 48750,
+    "showTime": "02:00 PM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 197,
+    "booked_gross": 49250,
+    "showTime": "06:00 PM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 123250,
+    "booked_tickets": 208,
+    "booked_gross": 52000,
+    "showTime": "09:00 PM",
+    "theatre code": "SVDC",
+    "theatre name": "Sri Venkateshwara Theatre: Chevella"
+  },
+ {
+    "total_tickets": 515,
+    "total_gross": 124350,
+    "booked_tickets": 263,
+    "booked_gross": 65750,
+    "showTime": "11:00 AM",
+    "theatre code": "GTME",
+    "theatre name": "Asian Sai Datta Picture Palace: Medak"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 124350,
+    "booked_tickets": 108,
+    "booked_gross": 27000,
+    "showTime": "02:30 PM",
+    "theatre code": "GTME",
+    "theatre name": "Asian Sai Datta Picture Palace: Medak"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 124350,
+    "booked_tickets": 153,
+    "booked_gross": 38250,
+    "showTime": "06:00 PM",
+    "theatre code": "GTME",
+    "theatre name": "Asian Sai Datta Picture Palace: Medak"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 124350,
+    "booked_tickets": 168,
+    "booked_gross": 42000,
+    "showTime": "09:30 PM",
+    "theatre code": "GTME",
+    "theatre name": "Asian Sai Datta Picture Palace: Medak"
+  },
+  {
+    "total_tickets": 673,
+    "total_gross": 159550,
+    "booked_tickets": 334,
+    "booked_gross": 83500,
+    "showTime": "11:00 AM",
+    "theatre code": "CMMK",
+    "theatre name": "Cinemax Theatre: Medak"
+  },
+  {
+    "total_tickets": 673,
+    "total_gross": 159550,
+    "booked_tickets": 132,
+    "booked_gross": 33000,
+    "showTime": "02:00 PM",
+    "theatre code": "CMMK",
+    "theatre name": "Cinemax Theatre: Medak"
+  },
+  {
+    "total_tickets": 673,
+    "total_gross": 159550,
+    "booked_tickets": 184,
+    "booked_gross": 46000,
+    "showTime": "06:00 PM",
+    "theatre code": "CMMK",
+    "theatre name": "Cinemax Theatre: Medak"
+  },
+  {
+    "total_tickets": 673,
+    "total_gross": 159550,
+    "booked_tickets": 196,
+    "booked_gross": 49000,
+    "showTime": "09:15 PM",
+    "theatre code": "CMMK",
+    "theatre name": "Cinemax Theatre: Medak"
+  },
+ {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 700,
+    "booked_gross": 192305,
+    "showTime": "04:00 AM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 668,
+    "booked_gross": 185905,
+    "showTime": "07:30 AM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 555,
+    "booked_gross": 163305,
+    "showTime": "11:00 AM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 555,
+    "booked_gross": 163305,
+    "showTime": "02:30 PM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 555,
+    "booked_gross": 163305,
+    "showTime": "06:00 PM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+  {
+    "total_tickets": 700,
+    "total_gross": 192305,
+    "booked_tickets": 557,
+    "booked_gross": 163705,
+    "showTime": "09:30 PM",
+    "theatre code": "AMCM",
+    "theatre name": "Asian Mukund Cinema: Medchal"
+  },
+{
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 472,
+    "booked_gross": 105300,
+    "showTime": "07:30 AM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 453,
+    "booked_gross": 103150,
+    "showTime": "11:00 AM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 311,
+    "booked_gross": 74850,
+    "showTime": "02:30 PM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 399,
+    "booked_gross": 93250,
+    "showTime": "06:00 PM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 810,
+    "total_gross": 165700,
+    "booked_tickets": 357,
+    "booked_gross": 84650,
+    "showTime": "09:30 PM",
+    "theatre code": "MTZH",
+    "theatre name": "Asian Maheshwari 70MM A/C DTS: Zaheerabad"
+  },
+  {
+    "total_tickets": 748,
+    "total_gross": 178450,
+    "booked_tickets": 228,
+    "booked_gross": 55750,
+    "showTime": "11:00 AM",
+    "theatre code": "AMZB",
+    "theatre name": "Asian Sri Mohan: Zaheerabad"
+  },
+  {
+    "total_tickets": 748,
+    "total_gross": 178450,
+    "booked_tickets": 132,
+    "booked_gross": 31750,
+    "showTime": "02:30 PM",
+    "theatre code": "AMZB",
+    "theatre name": "Asian Sri Mohan: Zaheerabad"
+  },
+  {
+    "total_tickets": 748,
+    "total_gross": 178450,
+    "booked_tickets": 187,
+    "booked_gross": 45500,
+    "showTime": "06:00 PM",
+    "theatre code": "AMZB",
+    "theatre name": "Asian Sri Mohan: Zaheerabad"
+  },
+  {
+    "total_tickets": 748,
+    "total_gross": 178450,
+    "booked_tickets": 177,
+    "booked_gross": 43000,
+    "showTime": "09:30 PM",
+    "theatre code": "AMZB",
+    "theatre name": "Asian Sri Mohan: Zaheerabad"
+  },
+{
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 607,
+    "booked_gross": 137950,
+    "showTime": "04:00 AM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 515,
+    "booked_gross": 113850,
+    "showTime": "07:30 AM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 520,
+    "booked_gross": 118250,
+    "showTime": "11:00 AM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 351,
+    "booked_gross": 78600,
+    "showTime": "02:30 PM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 378,
+    "booked_gross": 86700,
+    "showTime": "06:00 PM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 697,
+    "total_gross": 155950,
+    "booked_tickets": 417,
+    "booked_gross": 94550,
+    "showTime": "09:30 PM",
+    "theatre code": "ASBL",
+    "theatre name": "Asian Balaji 70MM A/C: Siddipet"
+  },
+  {
+    "total_tickets": 703,
+    "total_gross": 150400,
+    "booked_tickets": 475,
+    "booked_gross": 103150,
+    "showTime": "11:00 AM",
+    "theatre code": "ASVS",
+    "theatre name": "Asian Venkateshwara: Siddipet"
+  },
+  {
+    "total_tickets": 703,
+    "total_gross": 150400,
+    "booked_tickets": 322,
+    "booked_gross": 69900,
+    "showTime": "02:30 PM",
+    "theatre code": "ASVS",
+    "theatre name": "Asian Venkateshwara: Siddipet"
+  },
+  {
+    "total_tickets": 703,
+    "total_gross": 150400,
+    "booked_tickets": 353,
+    "booked_gross": 79750,
+    "showTime": "06:00 PM",
+    "theatre code": "ASVS",
+    "theatre name": "Asian Venkateshwara: Siddipet"
+  },
+  {
+    "total_tickets": 703,
+    "total_gross": 150400,
+    "booked_tickets": 335,
+    "booked_gross": 78750,
+    "showTime": "09:30 PM",
+    "theatre code": "ASVS",
+    "theatre name": "Asian Venkateshwara: Siddipet"
+  },
+{
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 335,
+    "booked_gross": 79350,
+    "showTime": "07:30 AM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+  {
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 276,
+    "booked_gross": 64800,
+    "showTime": "11:00 AM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+  {
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 182,
+    "booked_gross": 43000,
+    "showTime": "02:30 PM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+  {
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 225,
+    "booked_gross": 53650,
+    "showTime": "06:00 PM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+  {
+    "total_tickets": 445,
+    "total_gross": 102350,
+    "booked_tickets": 217,
+    "booked_gross": 51750,
+    "showTime": "09:30 PM",
+    "theatre code": "RMTR",
+    "theatre name": "Asian Ramakrishna: Thorrur"
+  },
+{
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 47,
+    "booked_gross": 9400,
+    "showTime": "07:45 AM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+  {
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 227,
+    "booked_gross": 45400,
+    "showTime": "11:00 AM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+  {
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 194,
+    "booked_gross": 38800,
+    "showTime": "02:30 PM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+  {
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 199,
+    "booked_gross": 39800,
+    "showTime": "06:00 PM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+  {
+    "total_tickets": 298,
+    "total_gross": 59600,
+    "booked_tickets": 200,
+    "booked_gross": 40000,
+    "showTime": "09:30 PM",
+    "theatre code": "TKMU",
+    "theatre name": "Tirumala Kalamandir: Mulugu"
+  },
+{
+    "total_tickets": 324,
+    "total_gross": 64800,
+    "booked_tickets": 245,
+    "booked_gross": 49000,
+    "showTime": "11:00 AM",
+    "theatre code": "MAGH",
+    "theatre name": "Mahalaxmi Cinemas: Station Ghanpur"
+  },
+  {
+    "total_tickets": 324,
+    "total_gross": 64800,
+    "booked_tickets": 231,
+    "booked_gross": 46200,
+    "showTime": "02:00 PM",
+    "theatre code": "MAGH",
+    "theatre name": "Mahalaxmi Cinemas: Station Ghanpur"
+  },
+  {
+    "total_tickets": 324,
+    "total_gross": 64800,
+    "booked_tickets": 232,
+    "booked_gross": 46400,
+    "showTime": "06:00 PM",
+    "theatre code": "MAGH",
+    "theatre name": "Mahalaxmi Cinemas: Station Ghanpur"
+  },
+  {
+    "total_tickets": 324,
+    "total_gross": 64800,
+    "booked_tickets": 237,
+    "booked_gross": 47400,
+    "showTime": "09:00 PM",
+    "theatre code": "MAGH",
+    "theatre name": "Mahalaxmi Cinemas: Station Ghanpur"
+  },
+ {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 147,
+    "booked_gross": 61655,
+    "showTime": "07:40 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 87,
+    "booked_gross": 36757,
+    "showTime": "08:00 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 81,
+    "booked_gross": 34397,
+    "showTime": "08:40 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 111,
+    "total_gross": 46492,
+    "booked_tickets": 39,
+    "booked_gross": 16579,
+    "showTime": "09:30 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 173,
+    "booked_gross": 72393,
+    "showTime": "11:15 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 156,
+    "booked_gross": 65490,
+    "showTime": "11:35 AM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 140,
+    "booked_gross": 58646,
+    "showTime": "12:15 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 106,
+    "booked_gross": 44604,
+    "showTime": "02:50 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 97,
+    "booked_gross": 41005,
+    "showTime": "03:10 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 59,
+    "booked_gross": 24898,
+    "showTime": "03:50 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 111,
+    "total_gross": 46492,
+    "booked_tickets": 27,
+    "booked_gross": 11623,
+    "showTime": "04:05 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 142,
+    "booked_gross": 59531,
+    "showTime": "06:25 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 125,
+    "booked_gross": 52510,
+    "showTime": "06:45 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 108,
+    "booked_gross": 45489,
+    "showTime": "07:25 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 383,
+    "total_gross": 159123,
+    "booked_tickets": 67,
+    "booked_gross": 28320,
+    "showTime": "10:00 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 428,
+    "total_gross": 177826,
+    "booked_tickets": 63,
+    "booked_gross": 26668,
+    "showTime": "10:20 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 111,
+    "total_gross": 46492,
+    "booked_tickets": 21,
+    "booked_gross": 8968,
+    "showTime": "10:40 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+  {
+    "total_tickets": 332,
+    "total_gross": 138060,
+    "booked_tickets": 40,
+    "booked_gross": 16992,
+    "showTime": "11:00 PM",
+    "theatre code": "PJRM",
+    "theatre name": "PVR: Jeevan Reddy Mall, Armoor"
+  },
+{
+    "total_tickets": 640,
+    "total_gross": 152300,
+    "booked_tickets": 437,
+    "booked_gross": 109250,
+    "showTime": "11:00 AM",
+    "theatre code": "APRK",
+    "theatre name": "Asian Priya Cineplex: Kamareddy"
+  },
+  {
+    "total_tickets": 640,
+    "total_gross": 152300,
+    "booked_tickets": 263,
+    "booked_gross": 65750,
+    "showTime": "02:30 PM",
+    "theatre code": "APRK",
+    "theatre name": "Asian Priya Cineplex: Kamareddy"
+  },
+  {
+    "total_tickets": 640,
+    "total_gross": 152300,
+    "booked_tickets": 320,
+    "booked_gross": 80000,
+    "showTime": "06:00 PM",
+    "theatre code": "APRK",
+    "theatre name": "Asian Priya Cineplex: Kamareddy"
+  },
+  {
+    "total_tickets": 640,
+    "total_gross": 152300,
+    "booked_tickets": 317,
+    "booked_gross": 79250,
+    "showTime": "09:30 PM",
+    "theatre code": "APRK",
+    "theatre name": "Asian Priya Cineplex: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 415,
+    "booked_gross": 101650,
+    "showTime": "07:00 AM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 374,
+    "booked_gross": 91700,
+    "showTime": "10:50 AM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 271,
+    "booked_gross": 65850,
+    "showTime": "02:15 PM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 263,
+    "booked_gross": 63950,
+    "showTime": "05:50 PM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+  {
+    "total_tickets": 537,
+    "total_gross": 127300,
+    "booked_tickets": 307,
+    "booked_gross": 74950,
+    "showTime": "09:20 PM",
+    "theatre code": "STKM",
+    "theatre name": "V Cinemas Shanthi A/C: Kamareddy"
+  },
+{
+    "total_tickets": 547,
+    "total_gross": 127300,
+    "booked_tickets": 430,
+    "booked_gross": 103700,
+    "showTime": "11:00 AM",
+    "theatre code": "ARVB",
+    "theatre name": "AMR Vijay Bhaskar: Bhadrachalam"
+  },
+  {
+    "total_tickets": 547,
+    "total_gross": 127300,
+    "booked_tickets": 273,
+    "booked_gross": 64850,
+    "showTime": "02:15 PM",
+    "theatre code": "ARVB",
+    "theatre name": "AMR Vijay Bhaskar: Bhadrachalam"
+  },
+  {
+    "total_tickets": 547,
+    "total_gross": 127300,
+    "booked_tickets": 287,
+    "booked_gross": 68050,
+    "showTime": "06:00 PM",
+    "theatre code": "ARVB",
+    "theatre name": "AMR Vijay Bhaskar: Bhadrachalam"
+  },
+  {
+    "total_tickets": 547,
+    "total_gross": 127300,
+    "booked_tickets": 271,
+    "booked_gross": 65050,
+    "showTime": "09:15 PM",
+    "theatre code": "ARVB",
+    "theatre name": "AMR Vijay Bhaskar: Bhadrachalam"
+  },
+{
+    "total_tickets": 300,
+    "total_gross": 75000,
+    "booked_tickets": 274,
+    "booked_gross": 68500,
+    "showTime": "10:45 AM",
+    "theatre code": "KLJL",
+    "theatre name": "Kalanjali Theater: Yellandu"
+  },
+  {
+    "total_tickets": 300,
+    "total_gross": 75000,
+    "booked_tickets": 217,
+    "booked_gross": 54250,
+    "showTime": "02:15 PM",
+    "theatre code": "KLJL",
+    "theatre name": "Kalanjali Theater: Yellandu"
+  },
+  {
+    "total_tickets": 300,
+    "total_gross": 75000,
+    "booked_tickets": 247,
+    "booked_gross": 61750,
+    "showTime": "06:15 PM",
+    "theatre code": "KLJL",
+    "theatre name": "Kalanjali Theater: Yellandu"
+  },
+  {
+    "total_tickets": 300,
+    "total_gross": 75000,
+    "booked_tickets": 244,
+    "booked_gross": 61000,
+    "showTime": "09:30 PM",
+    "theatre code": "KLJL",
+    "theatre name": "Kalanjali Theater: Yellandu"
+  },
+ {
+    "total_tickets": 558,
+    "total_gross": 125800,
+    "booked_tickets": 282,
+    "booked_gross": 70500,
+    "showTime": "11:00 AM",
+    "theatre code": "SLST",
+    "theatre name": "Lakshmi Srinivasa Theatre: Madhira"
+  },
+  {
+    "total_tickets": 558,
+    "total_gross": 125800,
+    "booked_tickets": 173,
+    "booked_gross": 43250,
+    "showTime": "02:15 PM",
+    "theatre code": "SLST",
+    "theatre name": "Lakshmi Srinivasa Theatre: Madhira"
+  },
+  {
+    "total_tickets": 558,
+    "total_gross": 125800,
+    "booked_tickets": 224,
+    "booked_gross": 56000,
+    "showTime": "06:15 PM",
+    "theatre code": "SLST",
+    "theatre name": "Lakshmi Srinivasa Theatre: Madhira"
+  },
+  {
+    "total_tickets": 558,
+    "total_gross": 125800,
+    "booked_tickets": 174,
+    "booked_gross": 43500,
+    "showTime": "09:30 PM",
+    "theatre code": "SLST",
+    "theatre name": "Lakshmi Srinivasa Theatre: Madhira"
+  },
+  {
+    "total_tickets": 464,
+    "total_gross": 111200,
+    "booked_tickets": 127,
+    "booked_gross": 31750,
+    "showTime": "11:00 AM",
+    "theatre code": "STMI",
+    "theatre name": "Santhi Theatre: Madhira"
+  },
+  {
+    "total_tickets": 464,
+    "total_gross": 111200,
+    "booked_tickets": 81,
+    "booked_gross": 20250,
+    "showTime": "02:15 PM",
+    "theatre code": "STMI",
+    "theatre name": "Santhi Theatre: Madhira"
+  },
+  {
+    "total_tickets": 464,
+    "total_gross": 111200,
+    "booked_tickets": 103,
+    "booked_gross": 25750,
+    "showTime": "06:15 PM",
+    "theatre code": "STMI",
+    "theatre name": "Santhi Theatre: Madhira"
+  },
+  {
+    "total_tickets": 464,
+    "total_gross": 111200,
+    "booked_tickets": 84,
+    "booked_gross": 21000,
+    "showTime": "09:30 PM",
+    "theatre code": "STMI",
+    "theatre name": "Santhi Theatre: Madhira"
+  },
+{
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 198,
+    "booked_gross": 46000,
+    "showTime": "07:00 AM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+  {
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 314,
+    "booked_gross": 75000,
+    "showTime": "11:00 AM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+  {
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 203,
+    "booked_gross": 47250,
+    "showTime": "02:00 PM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+  {
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 207,
+    "booked_gross": 48250,
+    "showTime": "06:00 PM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+  {
+    "total_tickets": 319,
+    "total_gross": 76250,
+    "booked_tickets": 189,
+    "booked_gross": 43750,
+    "showTime": "09:00 PM",
+    "theatre code": "SSAS",
+    "theatre name": "Lakshmi Srinivasa: Aswaraopeta (Newly Renovated)"
+  },
+{
+    "total_tickets": 565,
+    "total_gross": 120100,
+    "booked_tickets": 450,
+    "booked_gross": 97100,
+    "showTime": "11:00 AM",
+    "theatre code": "SBLS",
+    "theatre name": "Sri Sai Balaji Theatre: Sathupally"
+  },
+  {
+    "total_tickets": 565,
+    "total_gross": 120100,
+    "booked_tickets": 353,
+    "booked_gross": 78850,
+    "showTime": "02:15 PM",
+    "theatre code": "SBLS",
+    "theatre name": "Sri Sai Balaji Theatre: Sathupally"
+  },
+  {
+    "total_tickets": 565,
+    "total_gross": 120100,
+    "booked_tickets": 353,
+    "booked_gross": 81250,
+    "showTime": "06:00 PM",
+    "theatre code": "SBLS",
+    "theatre name": "Sri Sai Balaji Theatre: Sathupally"
+  },
+  {
+    "total_tickets": 565,
+    "total_gross": 120100,
+    "booked_tickets": 309,
+    "booked_gross": 72250,
+    "showTime": "09:30 PM",
+    "theatre code": "SBLS",
+    "theatre name": "Sri Sai Balaji Theatre: Sathupally"
+  },
+{
+    "total_tickets": 249,
+    "total_gross": 62250,
+    "booked_tickets": 40,
+    "booked_gross": 10000,
+    "showTime": "11:00 AM",
+    "theatre code": "VKMK",
+    "theatre name": "Venkata Ramana Theatre: Makthal"
+  },
+  {
+    "total_tickets": 249,
+    "total_gross": 62250,
+    "booked_tickets": 38,
+    "booked_gross": 9500,
+    "showTime": "02:00 PM",
+    "theatre code": "VKMK",
+    "theatre name": "Venkata Ramana Theatre: Makthal"
+  },
+  {
+    "total_tickets": 249,
+    "total_gross": 62250,
+    "booked_tickets": 38,
+    "booked_gross": 9500,
+    "showTime": "06:00 PM",
+    "theatre code": "VKMK",
+    "theatre name": "Venkata Ramana Theatre: Makthal"
+  },
+  {
+    "total_tickets": 249,
+    "total_gross": 62250,
+    "booked_tickets": 38,
+    "booked_gross": 9500,
+    "showTime": "09:00 PM",
+    "theatre code": "VKMK",
+    "theatre name": "Venkata Ramana Theatre: Makthal"
+  },
+ {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 589,
+    "booked_gross": 119400,
+    "showTime": "07:00 AM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 612,
+    "booked_gross": 121700,
+    "showTime": "10:45 AM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 505,
+    "booked_gross": 106850,
+    "showTime": "02:00 PM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 511,
+    "booked_gross": 107350,
+    "showTime": "05:45 PM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 698,
+    "total_gross": 135100,
+    "booked_tickets": 566,
+    "booked_gross": 116650,
+    "showTime": "09:15 PM",
+    "theatre code": "PAAD",
+    "theatre name": "Parameswara 70MM: Shadnagar"
+  },
+  {
+    "total_tickets": 478,
+    "total_gross": 98000,
+    "booked_tickets": 425,
+    "booked_gross": 92700,
+    "showTime": "10:40 AM",
+    "theatre code": "SHDN",
+    "theatre name": "Sri Sai Baba: Shadnagar"
+  },
+  {
+    "total_tickets": 478,
+    "total_gross": 98000,
+    "booked_tickets": 220,
+    "booked_gross": 49050,
+    "showTime": "02:00 PM",
+    "theatre code": "SHDN",
+    "theatre name": "Sri Sai Baba: Shadnagar"
+  },
+  {
+    "total_tickets": 478,
+    "total_gross": 98000,
+    "booked_tickets": 314,
+    "booked_gross": 71150,
+    "showTime": "05:40 PM",
+    "theatre code": "SHDN",
+    "theatre name": "Sri Sai Baba: Shadnagar"
+  },
+  {
+    "total_tickets": 478,
+    "total_gross": 98000,
+    "booked_tickets": 385,
+    "booked_gross": 85850,
+    "showTime": "09:00 PM",
+    "theatre code": "SHDN",
+    "theatre name": "Sri Sai Baba: Shadnagar"
+  },
+{
+    "total_tickets": 455,
+    "total_gross": 134225,
+    "booked_tickets": 368,
+    "booked_gross": 108560,
+    "showTime": "07:30 AM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+  {
+    "total_tickets": 455,
+    "total_gross": 118300,
+    "booked_tickets": 412,
+    "booked_gross": 107120,
+    "showTime": "10:45 AM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+  {
+    "total_tickets": 455,
+    "total_gross": 118300,
+    "booked_tickets": 351,
+    "booked_gross": 91260,
+    "showTime": "02:15 PM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+  {
+    "total_tickets": 455,
+    "total_gross": 118300,
+    "booked_tickets": 328,
+    "booked_gross": 85280,
+    "showTime": "05:45 PM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+  {
+    "total_tickets": 455,
+    "total_gross": 118300,
+    "booked_tickets": 343,
+    "booked_gross": 89180,
+    "showTime": "09:15 PM",
+    "theatre code": "SRIW",
+    "theatre name": "Srinivasa 70 MM: Wanaparthy"
+  },
+{
+    "total_tickets": 431,
+    "total_gross": 105350,
+    "booked_tickets": 263,
+    "booked_gross": 65750,
+    "showTime": "11:00 AM",
+    "theatre code": "ASHO",
+    "theatre name": "Ashoka Cinema: Kalwakurthy"
+  },
+  {
+    "total_tickets": 431,
+    "total_gross": 105350,
+    "booked_tickets": 179,
+    "booked_gross": 44750,
+    "showTime": "02:30 PM",
+    "theatre code": "ASHO",
+    "theatre name": "Ashoka Cinema: Kalwakurthy"
+  },
+  {
+    "total_tickets": 431,
+    "total_gross": 105350,
+    "booked_tickets": 179,
+    "booked_gross": 44750,
+    "showTime": "06:00 PM",
+    "theatre code": "ASHO",
+    "theatre name": "Ashoka Cinema: Kalwakurthy"
+  },
+  {
+    "total_tickets": 431,
+    "total_gross": 105350,
+    "booked_tickets": 216,
+    "booked_gross": 54000,
+    "showTime": "09:30 PM",
+    "theatre code": "ASHO",
+    "theatre name": "Ashoka Cinema: Kalwakurthy"
+  },
+{
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 575,
+    "booked_gross": 133554,
+    "showTime": "07:00 AM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 459,
+    "booked_gross": 102384,
+    "showTime": "11:00 AM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 239,
+    "booked_gross": 51779,
+    "showTime": "02:00 PM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 345,
+    "booked_gross": 65825,
+    "showTime": "06:00 PM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 678,
+    "total_gross": 148920,
+    "booked_tickets": 323,
+    "booked_gross": 60296,
+    "showTime": "09:15 PM",
+    "theatre code": "BDJL",
+    "theatre name": "Balaji A/C Deluxe: Jagtial"
+  },
+  {
+    "total_tickets": 574,
+    "total_gross": 132350,
+    "booked_tickets": 143,
+    "booked_gross": 34850,
+    "showTime": "11:00 AM",
+    "theatre code": "DUKL",
+    "theatre name": "Durga Raja Kalamandir: Jagtial"
+  },
+  {
+    "total_tickets": 574,
+    "total_gross": 132350,
+    "booked_tickets": 69,
+    "booked_gross": 16550,
+    "showTime": "02:10 PM",
+    "theatre code": "DUKL",
+    "theatre name": "Durga Raja Kalamandir: Jagtial"
+  },
+  {
+    "total_tickets": 574,
+    "total_gross": 132350,
+    "booked_tickets": 69,
+    "booked_gross": 16350,
+    "showTime": "06:00 PM",
+    "theatre code": "DUKL",
+    "theatre name": "Durga Raja Kalamandir: Jagtial"
+  },
+  {
+    "total_tickets": 574,
+    "total_gross": 132350,
+    "booked_tickets": 77,
+    "booked_gross": 18150,
+    "showTime": "09:15 PM",
+    "theatre code": "DUKL",
+    "theatre name": "Durga Raja Kalamandir: Jagtial"
+  },
+  {
+    "total_tickets": 627,
+    "total_gross": 137758,
+    "booked_tickets": 72,
+    "booked_gross": 15889,
+    "showTime": "11:00 AM",
+    "theatre code": "SRJA",
+    "theatre name": "Srinivasa Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 627,
+    "total_gross": 137758,
+    "booked_tickets": 36,
+    "booked_gross": 7946,
+    "showTime": "02:00 PM",
+    "theatre code": "SRJA",
+    "theatre name": "Srinivasa Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 627,
+    "total_gross": 137758,
+    "booked_tickets": 78,
+    "booked_gross": 14542,
+    "showTime": "06:00 PM",
+    "theatre code": "SRJA",
+    "theatre name": "Srinivasa Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 627,
+    "total_gross": 137758,
+    "booked_tickets": 54,
+    "booked_gross": 11692,
+    "showTime": "09:00 PM",
+    "theatre code": "SRJA",
+    "theatre name": "Srinivasa Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 708,
+    "total_gross": 163350,
+    "booked_tickets": 447,
+    "booked_gross": 109200,
+    "showTime": "11:00 AM",
+    "theatre code": "VLSS",
+    "theatre name": "VLS Sri Rama Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 708,
+    "total_gross": 163350,
+    "booked_tickets": 327,
+    "booked_gross": 78950,
+    "showTime": "02:15 PM",
+    "theatre code": "VLSS",
+    "theatre name": "VLS Sri Rama Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 708,
+    "total_gross": 163350,
+    "booked_tickets": 386,
+    "booked_gross": 93800,
+    "showTime": "06:00 PM",
+    "theatre code": "VLSS",
+    "theatre name": "VLS Sri Rama Theatre: Jagtial"
+  },
+  {
+    "total_tickets": 708,
+    "total_gross": 163350,
+    "booked_tickets": 373,
+    "booked_gross": 90650,
+    "showTime": "09:15 PM",
+    "theatre code": "VLSS",
+    "theatre name": "VLS Sri Rama Theatre: Jagtial"
+  },
+{
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 285,
+    "booked_gross": 71250,
+    "showTime": "07:00 AM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+  {
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 252,
+    "booked_gross": 63000,
+    "showTime": "11:15 AM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+  {
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 189,
+    "booked_gross": 47250,
+    "showTime": "02:30 PM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+  {
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 204,
+    "booked_gross": 51000,
+    "showTime": "06:15 PM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+  {
+    "total_tickets": 360,
+    "total_gross": 90000,
+    "booked_tickets": 203,
+    "booked_gross": 50750,
+    "showTime": "09:30 PM",
+    "theatre code": "ADTJ",
+    "theatre name": "Annapurna Deluxe Theatre: Jammikunta"
+  },
+{
+    "total_tickets": 656,
+    "total_gross": 148200,
+    "booked_tickets": 442,
+    "booked_gross": 104500,
+    "showTime": "10:45 AM",
+    "theatre code": "SKME",
+    "theatre name": "Asian Sai Krishna: Metpally"
+  },
+  {
+    "total_tickets": 656,
+    "total_gross": 148200,
+    "booked_tickets": 351,
+    "booked_gross": 82750,
+    "showTime": "02:15 PM",
+    "theatre code": "SKME",
+    "theatre name": "Asian Sai Krishna: Metpally"
+  },
+  {
+    "total_tickets": 656,
+    "total_gross": 148200,
+    "booked_tickets": 272,
+    "booked_gross": 63700,
+    "showTime": "05:45 PM",
+    "theatre code": "SKME",
+    "theatre name": "Asian Sai Krishna: Metpally"
+  },
+  {
+    "total_tickets": 656,
+    "total_gross": 148200,
+    "booked_tickets": 178,
+    "booked_gross": 42700,
+    "showTime": "09:15 PM",
+    "theatre code": "SKME",
+    "theatre name": "Asian Sai Krishna: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 349,
+    "booked_gross": 73750,
+    "showTime": "07:30 AM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 248,
+    "booked_gross": 52500,
+    "showTime": "11:00 AM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 233,
+    "booked_gross": 50050,
+    "showTime": "02:00 PM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 218,
+    "booked_gross": 47100,
+    "showTime": "06:00 PM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+  {
+    "total_tickets": 608,
+    "total_gross": 131600,
+    "booked_tickets": 224,
+    "booked_gross": 48300,
+    "showTime": "09:00 PM",
+    "theatre code": "LMTP",
+    "theatre name": "Laxmi AC Deluxe Theatre: Metpally"
+  },
+{
+    "total_tickets": 600,
+    "total_gross": 133650,
+    "booked_tickets": 233,
+    "booked_gross": 55400,
+    "showTime": "11:00 AM",
+    "theatre code": "ANRS",
+    "theatre name": "Asian Natraj Deluxe Theatre A/c: Sircilla"
+  },
+  {
+    "total_tickets": 600,
+    "total_gross": 133650,
+    "booked_tickets": 161,
+    "booked_gross": 38000,
+    "showTime": "02:30 PM",
+    "theatre code": "ANRS",
+    "theatre name": "Asian Natraj Deluxe Theatre A/c: Sircilla"
+  },
+  {
+    "total_tickets": 600,
+    "total_gross": 133650,
+    "booked_tickets": 202,
+    "booked_gross": 46900,
+    "showTime": "06:00 PM",
+    "theatre code": "ANRS",
+    "theatre name": "Asian Natraj Deluxe Theatre A/c: Sircilla"
+  },
+  {
+    "total_tickets": 600,
+    "total_gross": 133650,
+    "booked_tickets": 194,
+    "booked_gross": 47600,
+    "showTime": "09:30 PM",
+    "theatre code": "ANRS",
+    "theatre name": "Asian Natraj Deluxe Theatre A/c: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 419,
+    "booked_gross": 104750,
+    "showTime": "07:00 AM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 281,
+    "booked_gross": 70250,
+    "showTime": "11:00 AM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 184,
+    "booked_gross": 46000,
+    "showTime": "02:15 PM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 246,
+    "booked_gross": 61500,
+    "showTime": "06:00 PM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+  {
+    "total_tickets": 512,
+    "total_gross": 128000,
+    "booked_tickets": 288,
+    "booked_gross": 72000,
+    "showTime": "09:20 PM",
+    "theatre code": "VIMS",
+    "theatre name": "Vimala Theatre: Sircilla"
+  },
+ {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 620,
+    "booked_gross": 130250,
+    "showTime": "07:30 AM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 618,
+    "booked_gross": 129750,
+    "showTime": "11:00 AM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 389,
+    "booked_gross": 78200,
+    "showTime": "02:30 PM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 425,
+    "booked_gross": 88100,
+    "showTime": "06:00 PM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 684,
+    "total_gross": 143050,
+    "booked_tickets": 437,
+    "booked_gross": 90800,
+    "showTime": "09:30 PM",
+    "theatre code": "RRPP",
+    "theatre name": "Raghava Theatre: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 150200,
+    "booked_tickets": 362,
+    "booked_gross": 49000,
+    "showTime": "04:00 AM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 178250,
+    "booked_tickets": 458,
+    "booked_gross": 89400,
+    "showTime": "11:00 AM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 178250,
+    "booked_tickets": 119,
+    "booked_gross": 23800,
+    "showTime": "02:30 PM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 178250,
+    "booked_tickets": 199,
+    "booked_gross": 41950,
+    "showTime": "06:00 PM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 868,
+    "total_gross": 178250,
+    "booked_tickets": 163,
+    "booked_gross": 32950,
+    "showTime": "09:30 PM",
+    "theatre code": "VIRY",
+    "theatre name": "Venkateshwara Theater: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 163,
+    "booked_gross": 70190,
+    "showTime": "07:15 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 131,
+    "booked_gross": 56410,
+    "showTime": "07:30 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 18,
+    "booked_gross": 8460,
+    "showTime": "07:45 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 41,
+    "booked_gross": 17650,
+    "showTime": "08:15 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 48,
+    "booked_gross": 21240,
+    "showTime": "11:00 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 37,
+    "booked_gross": 15890,
+    "showTime": "11:15 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 22,
+    "booked_gross": 9860,
+    "showTime": "11:45 AM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 15,
+    "booked_gross": 7050,
+    "showTime": "12:00 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 15,
+    "booked_gross": 6690,
+    "showTime": "02:15 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 17,
+    "booked_gross": 7570,
+    "showTime": "02:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 8,
+    "booked_gross": 3460,
+    "showTime": "03:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 8,
+    "booked_gross": 3760,
+    "showTime": "04:00 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 64,
+    "booked_gross": 27800,
+    "showTime": "06:00 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 57,
+    "booked_gross": 24930,
+    "showTime": "06:15 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 48,
+    "booked_gross": 20700,
+    "showTime": "06:45 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 53,
+    "booked_gross": 24910,
+    "showTime": "07:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 49,
+    "booked_gross": 21770,
+    "showTime": "09:15 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 185,
+    "total_gross": 79270,
+    "booked_tickets": 46,
+    "booked_gross": 20120,
+    "showTime": "09:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 151,
+    "total_gross": 64490,
+    "booked_tickets": 22,
+    "booked_gross": 9500,
+    "showTime": "10:30 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+  {
+    "total_tickets": 98,
+    "total_gross": 46060,
+    "booked_tickets": 6,
+    "booked_gross": 2820,
+    "showTime": "10:45 PM",
+    "theatre code": "VTYM",
+    "theatre name": "Vitross Cineplex: Miryalaguda"
+  },
+{
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 922,
+    "booked_gross": 205350,
+    "showTime": "04:00 AM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 659,
+    "booked_gross": 152650,
+    "showTime": "07:30 AM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 612,
+    "booked_gross": 140900,
+    "showTime": "11:00 AM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 447,
+    "booked_gross": 103750,
+    "showTime": "02:30 PM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 424,
+    "booked_gross": 99800,
+    "showTime": "06:00 PM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 922,
+    "total_gross": 205350,
+    "booked_tickets": 445,
+    "booked_gross": 102750,
+    "showTime": "09:30 PM",
+    "theatre code": "SRIN",
+    "theatre name": "Asian Srinivasa: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 64,
+    "booked_gross": 30080,
+    "showTime": "07:00 AM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 12,
+    "booked_gross": 5640,
+    "showTime": "11:00 AM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 6,
+    "booked_gross": 2820,
+    "showTime": "02:15 PM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 16,
+    "booked_gross": 7520,
+    "showTime": "06:00 PM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 64,
+    "total_gross": 30080,
+    "booked_tickets": 17,
+    "booked_gross": 7990,
+    "showTime": "09:15 PM",
+    "theatre code": "CXMK",
+    "theatre name": "Connplex Smart Theatre: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 149460,
+    "booked_tickets": 267,
+    "booked_gross": 125490,
+    "showTime": "06:00 AM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 159330,
+    "booked_tickets": 208,
+    "booked_gross": 97760,
+    "showTime": "06:30 AM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 78,
+    "booked_gross": 31980,
+    "showTime": "10:45 AM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 130380,
+    "booked_tickets": 65,
+    "booked_gross": 26650,
+    "showTime": "11:00 AM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 43,
+    "booked_gross": 17630,
+    "showTime": "02:15 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 130380,
+    "booked_tickets": 53,
+    "booked_gross": 21730,
+    "showTime": "02:30 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 130380,
+    "booked_tickets": 83,
+    "booked_gross": 34030,
+    "showTime": "06:00 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 80,
+    "booked_gross": 32800,
+    "showTime": "06:15 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 318,
+    "total_gross": 130380,
+    "booked_tickets": 94,
+    "booked_gross": 38540,
+    "showTime": "09:30 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 68,
+    "booked_gross": 27880,
+    "showTime": "09:45 PM",
+    "theatre code": "VRCK",
+    "theatre name": "Vishnuram Cinemas: Kodad"
+  },
+{
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 594,
+    "booked_gross": 127500,
+    "showTime": "07:30 AM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 610,
+    "booked_gross": 130450,
+    "showTime": "11:30 AM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 489,
+    "booked_gross": 107950,
+    "showTime": "03:00 PM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 505,
+    "booked_gross": 111000,
+    "showTime": "06:30 PM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 771,
+    "total_gross": 168050,
+    "booked_tickets": 463,
+    "booked_gross": 102400,
+    "showTime": "10:15 PM",
+    "theatre code": "NTMS",
+    "theatre name": "Navya Theatre: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 249,
+    "booked_gross": 100770,
+    "showTime": "04:15 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 229,
+    "total_gross": 92300,
+    "booked_tickets": 201,
+    "booked_gross": 81240,
+    "showTime": "04:30 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 157,
+    "booked_gross": 63770,
+    "showTime": "04:45 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 191,
+    "booked_gross": 79090,
+    "showTime": "08:00 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 229,
+    "total_gross": 92300,
+    "booked_tickets": 15,
+    "booked_gross": 6870,
+    "showTime": "08:15 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 133,
+    "booked_gross": 55190,
+    "showTime": "08:30 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 143,
+    "booked_gross": 59410,
+    "showTime": "11:30 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 229,
+    "total_gross": 92300,
+    "booked_tickets": 12,
+    "booked_gross": 5640,
+    "showTime": "11:45 AM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 96,
+    "booked_gross": 40020,
+    "showTime": "12:00 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 59,
+    "booked_gross": 24970,
+    "showTime": "03:00 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 36,
+    "booked_gross": 15420,
+    "showTime": "03:30 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 141,
+    "booked_gross": 58590,
+    "showTime": "06:30 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 229,
+    "total_gross": 92300,
+    "booked_tickets": 12,
+    "booked_gross": 5640,
+    "showTime": "06:45 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 118,
+    "booked_gross": 49040,
+    "showTime": "07:00 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 251,
+    "total_gross": 101170,
+    "booked_tickets": 123,
+    "booked_gross": 51210,
+    "showTime": "10:00 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+  {
+    "total_tickets": 196,
+    "total_gross": 79130,
+    "booked_tickets": 85,
+    "booked_gross": 35510,
+    "showTime": "10:30 PM",
+    "theatre code": "TMSY",
+    "theatre name": "Tirumala Multiplex: Suryapet"
+  },
+{
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 370,
+    "booked_gross": 107060,
+    "showTime": "07:30 AM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+  {
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 350,
+    "booked_gross": 101160,
+    "showTime": "11:00 AM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+  {
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 129,
+    "booked_gross": 35965,
+    "showTime": "02:30 PM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+  {
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 165,
+    "booked_gross": 46585,
+    "showTime": "06:00 PM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+  {
+    "total_tickets": 706,
+    "total_gross": 192690,
+    "booked_tickets": 170,
+    "booked_gross": 48060,
+    "showTime": "09:30 PM",
+    "theatre code": "ASNT",
+    "theatre name": "Asian Nataraj 70MM: Adilabad"
+  },
+   {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 624,
+    "booked_gross": 171790,
+    "showTime": "07:30 AM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+  {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 378,
+    "booked_gross": 102640,
+    "showTime": "11:00 AM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+  {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 288,
+    "booked_gross": 76810,
+    "showTime": "02:30 PM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+  {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 315,
+    "booked_gross": 85375,
+    "showTime": "06:00 PM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+  {
+    "total_tickets": 918,
+    "total_gross": 239860,
+    "booked_tickets": 259,
+    "booked_gross": 69215,
+    "showTime": "09:30 PM",
+    "theatre code": "ASSA",
+    "theatre name": "Asian Srinivasa: Mancherial"
+  },
+{
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "04:00 AM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "07:00 AM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "11:00 AM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "02:00 PM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "06:00 PM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 189,
+    "total_gross": 37800,
+    "booked_tickets": 188,
+    "booked_gross": 37600,
+    "showTime": "09:00 PM",
+    "theatre code": "VNYB",
+    "theatre name": "Vanayamba Theater: Kosgi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 473,
+    "booked_gross": 55250,
+    "showTime": "06:00 AM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 407,
+    "booked_gross": 38750,
+    "showTime": "10:00 AM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 375,
+    "booked_gross": 30750,
+    "showTime": "01:30 PM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 376,
+    "booked_gross": 31000,
+    "showTime": "05:30 PM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+  {
+    "total_tickets": 502,
+    "total_gross": 62500,
+    "booked_tickets": 387,
+    "booked_gross": 33750,
+    "showTime": "09:00 PM",
+    "theatre code": "SREE",
+    "theatre name": "Sree Bhavani 70MM A/C: Parigi"
+  },
+{
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 854,
+    "booked_gross": 202420,
+    "showTime": "3:45 AM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 818,
+    "booked_gross": 196875,
+    "showTime": "7:15 AM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 761,
+    "booked_gross": 188470,
+    "showTime": "10:45 AM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 676,
+    "booked_gross": 170530,
+    "showTime": "2:15 PM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 710,
+    "booked_gross": 179770,
+    "showTime": "6:00 PM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 854,
+    "total_gross": 202420,
+    "booked_tickets": 714,
+    "booked_gross": 179120,
+    "showTime": "9:45 PM",
+    "theatre code": "ACWH",
+    "theatre name": "Amrutha Cinema: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 551,
+    "booked_gross": 151375,
+    "showTime": "7:15 AM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 610,
+    "booked_gross": 164510,
+    "showTime": "11:00 AM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 383,
+    "booked_gross": 107810,
+    "showTime": "2:45 PM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 465,
+    "booked_gross": 132015,
+    "showTime": "6:30 PM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+  {
+    "total_tickets": 686,
+    "total_gross": 184105,
+    "booked_tickets": 424,
+    "booked_gross": 120400,
+    "showTime": "10:30 PM",
+    "theatre code": "AAPW",
+    "theatre name": "Asian Ashoka Air-Conditioned: Hanumakonda"
+  },
+{
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 526,
+    "booked_gross": 139100,
+    "showTime": "4:00 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 232,
+    "booked_gross": 68320,
+    "showTime": "7:45 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 465,
+    "booked_gross": 125730,
+    "showTime": "8:00 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 200,
+    "booked_gross": 59000,
+    "showTime": "11:15 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 430,
+    "booked_gross": 117810,
+    "showTime": "11:30 AM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 175,
+    "booked_gross": 51565,
+    "showTime": "2:45 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 398,
+    "booked_gross": 109820,
+    "showTime": "3:00 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 193,
+    "booked_gross": 56935,
+    "showTime": "6:15 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 419,
+    "booked_gross": 115355,
+    "showTime": "6:30 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 331,
+    "total_gross": 94585,
+    "booked_tickets": 198,
+    "booked_gross": 58230,
+    "showTime": "9:45 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 144100,
+    "booked_tickets": 420,
+    "booked_gross": 115680,
+    "showTime": "10:00 PM",
+    "theatre code": "ASGM",
+    "theatre name": "Asian Gemini Theatre: Warangal"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 298,
+    "booked_gross": 122180,
+    "showTime": "4:00 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 279,
+    "booked_gross": 114390,
+    "showTime": "4:20 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 282,
+    "booked_gross": 115620,
+    "showTime": "8:10 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 254,
+    "booked_gross": 104140,
+    "showTime": "8:30 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 170,
+    "booked_gross": 69700,
+    "showTime": "8:50 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 265,
+    "booked_gross": 108650,
+    "showTime": "11:40 AM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 221,
+    "booked_gross": 90610,
+    "showTime": "12:00 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 161,
+    "booked_gross": 66010,
+    "showTime": "12:20 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 216,
+    "booked_gross": 88560,
+    "showTime": "3:10 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 199,
+    "booked_gross": 81590,
+    "showTime": "3:30 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 165,
+    "booked_gross": 67650,
+    "showTime": "3:50 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 281,
+    "booked_gross": 115210,
+    "showTime": "6:40 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 280,
+    "booked_gross": 114800,
+    "showTime": "7:00 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 230,
+    "booked_gross": 94300,
+    "showTime": "7:20 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 338,
+    "total_gross": 138580,
+    "booked_tickets": 264,
+    "booked_gross": 108240,
+    "showTime": "10:10 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 339,
+    "total_gross": 138990,
+    "booked_tickets": 233,
+    "booked_gross": 95530,
+    "showTime": "10:30 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 299,
+    "total_gross": 122590,
+    "booked_tickets": 161,
+    "booked_gross": 66010,
+    "showTime": "10:45 PM",
+    "theatre code": "ASMW",
+    "theatre name": "Asian Sridevi Multiplex: Hanumakonda"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 247,
+    "booked_gross": 102011,
+    "showTime": "4:05 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 308,
+    "booked_gross": 127204,
+    "showTime": "5:05 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+{
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 205,
+    "booked_gross": 84665,
+    "showTime": "7:40 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 69,
+    "booked_gross": 28497,
+    "showTime": "8:00 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 79,
+    "booked_gross": 32627,
+    "showTime": "8:20 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 189,
+    "booked_gross": 78057,
+    "showTime": "8:40 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 97,
+    "total_gross": 40061,
+    "booked_tickets": 53,
+    "booked_gross": 21889,
+    "showTime": "10:15 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 158,
+    "booked_gross": 65254,
+    "showTime": "11:15 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 61,
+    "booked_gross": 25193,
+    "showTime": "11:35 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 64,
+    "booked_gross": 26432,
+    "showTime": "11:55 AM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 167,
+    "booked_gross": 68971,
+    "showTime": "12:15 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 128,
+    "booked_gross": 52864,
+    "showTime": "2:50 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 56,
+    "booked_gross": 23128,
+    "showTime": "3:10 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 81,
+    "booked_gross": 33453,
+    "showTime": "3:30 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 186,
+    "booked_gross": 76818,
+    "showTime": "3:50 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 197,
+    "booked_gross": 81361,
+    "showTime": "6:25 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 79,
+    "booked_gross": 32627,
+    "showTime": "6:45 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 116,
+    "booked_gross": 47908,
+    "showTime": "7:05 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 260,
+    "booked_gross": 107380,
+    "showTime": "7:25 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 253,
+    "total_gross": 104489,
+    "booked_tickets": 198,
+    "booked_gross": 81774,
+    "showTime": "10:00 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 121,
+    "total_gross": 49973,
+    "booked_tickets": 83,
+    "booked_gross": 34279,
+    "showTime": "10:20 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 158,
+    "total_gross": 65254,
+    "booked_tickets": 110,
+    "booked_gross": 45430,
+    "showTime": "10:40 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 97,
+    "total_gross": 40061,
+    "booked_tickets": 50,
+    "booked_gross": 20650,
+    "showTime": "10:50 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 347,
+    "total_gross": 143311,
+    "booked_tickets": 224,
+    "booked_gross": 92512,
+    "showTime": "11:00 PM",
+    "theatre code": "PWLM",
+    "theatre name": "PVR: Warangal, Maddox Mall"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 549,
+    "booked_gross": 153555,
+    "showTime": "7:30 AM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 300,
+    "booked_gross": 85500,
+    "showTime": "11:00 AM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 50,
+    "booked_gross": 14450,
+    "showTime": "2:45 PM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 191,
+    "booked_gross": 55085,
+    "showTime": "6:30 PM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 551,
+    "total_gross": 154145,
+    "booked_tickets": 106,
+    "booked_gross": 30670,
+    "showTime": "10:00 PM",
+    "theatre code": "RTWA",
+    "theatre name": "Radhika Theatre: Warangal"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 139360,
+    "booked_tickets": 226,
+    "booked_gross": 62470,
+    "showTime": "7:00 AM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 137610,
+    "booked_tickets": 214,
+    "booked_gross": 54575,
+    "showTime": "11:00 AM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 137610,
+    "booked_tickets": 173,
+    "booked_gross": 43500,
+    "showTime": "2:40 PM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 137610,
+    "booked_tickets": 215,
+    "booked_gross": 55110,
+    "showTime": "6:30 PM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  },
+  {
+    "total_tickets": 515,
+    "total_gross": 137610,
+    "booked_tickets": 209,
+    "booked_gross": 53520,
+    "showTime": "10:00 PM",
+    "theatre code": "VKTR",
+    "theatre name": "Venkatrama Cinema: Warangal(Newly Renovated)"
+  }
+]
